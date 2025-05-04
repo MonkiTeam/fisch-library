@@ -1,4 +1,4 @@
-{
+return {
     ["Cluckfin"] = {
         ["SparkleColor"] = 1, 1, 1,
         ["Description"] = "A feathered fish, crowing beneath the waves.",
