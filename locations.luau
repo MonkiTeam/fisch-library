@@ -1,4 +1,4 @@
-return return {
+return {
     ["The Depths"] = {
         ["Bobber"] = "Nautilis Shell",
         ["Name"] = "The Depths",
