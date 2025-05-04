@@ -9,7 +9,7 @@ return {
         },
         ["Icon"] = "rbxassetid://77638446765066",
         ["Hint"] = "It clucks where the summer sun dances on the waves.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -39,7 +39,7 @@ return {
             [1] = 1,
             [2] = 2,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.890196, 0.560784,
         ["Quips"] = {
             [1] = "A Sand Dollar!",
@@ -71,7 +71,7 @@ return {
         },
         ["XP"] = 20,
         ["Hint"] = "Snowcap Algae can only be found in the icy and frigid peaks of Snowcap Mountain, where the harsh cold has preserved it for centuries...",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -98,7 +98,7 @@ return {
         },
         ["XP"] = 60,
         ["Hint"] = "???",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -125,7 +125,7 @@ return {
             [1] = 210,
             [2] = 470,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "A Hydra Haddock!",
@@ -153,7 +153,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.65,
         ["Hint"] = "Only rarely spotted in the oceans during a Shark Hunt. Only awake during the day.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -186,7 +186,7 @@ return {
             [1] = 1,
             [2] = 3,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.772549, 0.419608, 0.243137,
         ["Quips"] = {
             [1] = "Seaweed!",
@@ -216,7 +216,7 @@ return {
             [1] = 250,
             [2] = 350,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.352941, 1, 0.764706,
         ["Quips"] = {
             [1] = "A Napoleonfish!",
@@ -245,7 +245,7 @@ return {
         },
         ["XP"] = 250,
         ["Hint"] = "???",
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -273,7 +273,7 @@ return {
         },
         ["XP"] = 300,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -305,7 +305,7 @@ return {
             [1] = 200,
             [2] = 450,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0, 0, 0,
         ["Quips"] = {
             [1] = "A Typhoon Tuna!",
@@ -334,7 +334,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.2,
         ["Hint"] = "Found in Snowcap Pond.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -364,7 +364,7 @@ return {
             [1] = 18,
             [2] = 40,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.443137, 0.737255, 0.376471,
         ["Quips"] = {
             [1] = "Woah! A Walleye!",
@@ -392,7 +392,7 @@ return {
             [1] = 200,
             [2] = 800,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.909804, 0.909804, 0.909804,
         ["Quips"] = {
             [1] = "A Sturgeon!",
@@ -423,7 +423,7 @@ return {
             [1] = 20,
             [2] = 60,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.32549, 0.32549,
         ["Quips"] = {
             [1] = "A Char!",
@@ -452,7 +452,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.7,
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -483,7 +483,7 @@ return {
         },
         ["XP"] = 60,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -521,7 +521,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.75,
         ["Hint"] = "Can be found in the waterfalls on the Ancient Isle.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -551,7 +551,7 @@ return {
             [1] = 20,
             [2] = 70,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.694118, 0.2,
         ["Quips"] = {
             [1] = "Ouu a Starfish!",
@@ -581,7 +581,7 @@ return {
         },
         ["Icon"] = "rbxassetid://85330129929548",
         ["Hint"] = "It lurks where the haze fuels the daylightâ€™s glow.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -614,7 +614,7 @@ return {
             [1] = 10,
             [2] = 50,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "A Pollock!",
@@ -644,7 +644,7 @@ return {
         },
         ["XP"] = 80,
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -676,7 +676,7 @@ return {
         },
         ["XP"] = 180,
         ["Hint"] = "Only can be caught during Ashfall.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -706,7 +706,7 @@ return {
         },
         ["Icon"] = "rbxassetid://106599430074891",
         ["Hint"] = "Its mane flares where the sun ignites the waves.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -738,7 +738,7 @@ return {
             [1] = 30,
             [2] = 80,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.4, 0.921569, 1,
         ["Quips"] = {
             [1] = "An Ice Octopus!",
@@ -767,7 +767,7 @@ return {
         },
         ["XP"] = 300,
         ["Hint"] = "Found in deep ocean water. Extremely strong.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -799,7 +799,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.2,
         ["Hint"] = "Search the ocean for migrating orcas",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -828,7 +828,7 @@ return {
             [1] = 10,
             [2] = 45,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.494118, 0.454902, 0.305882,
         ["Quips"] = {
             [1] = "Oh... A Destroyed Fossil?",
@@ -854,7 +854,7 @@ return {
             [1] = 80,
             [2] = 240,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.333333, 0.980392, 0.862745,
         ["Quips"] = {
             [1] = "A Prismatic Parrotfish!",
@@ -882,7 +882,7 @@ return {
         },
         ["Icon"] = "rbxassetid://79213491852476",
         ["Hint"] = "It lingers where the sun blesses the warm stillness.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -915,7 +915,7 @@ return {
         },
         ["Icon"] = "rbxassetid://94159581572250",
         ["Hint"] = "It spears the chill where snow dusts the waves.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -949,7 +949,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.6,
         ["Hint"] = "Only appears in the most ancient sections of the cave.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -979,7 +979,7 @@ return {
             [1] = 80,
             [2] = 160,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0, 0, 0,
         ["Quips"] = {
             [1] = "A Vortex Barracuda!",
@@ -1007,7 +1007,7 @@ return {
             [1] = 40,
             [2] = 80,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.576471, 0.768627, 1,
         ["Quips"] = {
             [1] = "An Atlantean Guardian!",
@@ -1036,7 +1036,7 @@ return {
         },
         ["XP"] = 240,
         ["Hint"] = "Only can be caught during Ashfall.",
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -1067,7 +1067,7 @@ return {
             [1] = 100,
             [2] = 250,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 1, 0.933333, 0.576471,
         ["Quips"] = {
             [1] = "A Voltfin Carp!",
@@ -1096,7 +1096,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.3,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -1127,7 +1127,7 @@ return {
             [1] = 200,
             [2] = 400,
         },
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["SparkleColor"] = 0.580392, 0, 0.827451,
         ["Quips"] = {
             [1] = "A Starlit Weaver!",
@@ -1155,7 +1155,7 @@ return {
         },
         ["XP"] = 80,
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -1186,7 +1186,7 @@ return {
             [1] = 12,
             [2] = 12,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.772549, 0.596078, 0.313726,
         ["Quips"] = {
             [1] = "Ermm..?",
@@ -1217,7 +1217,7 @@ return {
             [1] = 1000,
             [2] = 2200,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.490196, 0.823529, 1,
         ["Quips"] = {
             [1] = "A Bluefin Tuna!",
@@ -1248,7 +1248,7 @@ return {
         },
         ["XP"] = 6600,
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
             [2] = "Spring",
@@ -1281,7 +1281,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.2,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -1312,7 +1312,7 @@ return {
         },
         ["Icon"] = "rbxassetid://74639413269289",
         ["Hint"] = "It chatters where the winds stir the tropical waters.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -1347,7 +1347,7 @@ return {
             [1] = 10,
             [2] = 40,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.811765, 0.811765, 0.811765,
         ["Quips"] = {
             [1] = "A Mackerel!",
@@ -1379,7 +1379,7 @@ return {
             [1] = 45,
             [2] = 90,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.729412, 0.552941, 1,
         ["Quips"] = {
             [1] = "An Oracle's Eye!",
@@ -1409,7 +1409,7 @@ return {
             [1] = 150,
             [2] = 300,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.705882, 0.341176, 0.196078,
         ["Quips"] = {
             [1] = "I caught a Stingray!",
@@ -1437,7 +1437,7 @@ return {
         },
         ["Icon"] = "rbxassetid://100875351246693",
         ["Hint"] = "It probes the clear, cold depths.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -1467,7 +1467,7 @@ return {
             [1] = 1,
             [2] = 6,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.631373, 0.631373, 0.631373,
         ["Quips"] = {
             [1] = "Ouu a Minnow!",
@@ -1499,7 +1499,7 @@ return {
         },
         ["Icon"] = "rbxassetid://84550850034003",
         ["Hint"] = "It shimmers where the fog hides the truth.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -1533,7 +1533,7 @@ return {
             [1] = 300,
             [2] = 600,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.337255, 0.556863, 1,
         ["Quips"] = {
             [1] = "A Thunder Bass!",
@@ -1562,7 +1562,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.15,
         ["Hint"] = "Rarely spotted in dark, murky waters",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -1591,7 +1591,7 @@ return {
         },
         ["Icon"] = "rbxassetid://106024360957639",
         ["Hint"] = "It swims where the waters clear under starlight.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -1625,7 +1625,7 @@ return {
             [1] = 50,
             [2] = 120,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.321569, 0.176471, 0.407843,
         ["Quips"] = {
             [1] = "A TENTACLED HORROR!",
@@ -1655,7 +1655,7 @@ return {
         },
         ["Icon"] = "rbxassetid://89496014572275",
         ["Hint"] = "Found in the vibrant carrot pool!",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -1689,7 +1689,7 @@ return {
         },
         ["Icon"] = "rbxassetid://83101453929168",
         ["Hint"] = "It breezes through when the wind howls.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -1723,7 +1723,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Patrols the darkest depths during the Coldest Nights...",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -1751,7 +1751,7 @@ return {
         },
         ["Icon"] = "rbxassetid://88566667097367",
         ["Hint"] = "It gulps in the dark of night.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -1785,7 +1785,7 @@ return {
             [1] = 15,
             [2] = 45,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.803922, 0.0117647,
         ["Quips"] = {
             [1] = "Now, where's the cymbol?",
@@ -1818,7 +1818,7 @@ return {
             [1] = 1,
             [2] = 6,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.631373, 1, 0.968627,
         ["Quips"] = {
             [1] = "Small but dangerous..",
@@ -1844,7 +1844,7 @@ return {
             [1] = 40,
             [2] = 90,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.494118, 0.403922, 1,
         ["Quips"] = {
             [1] = "A Horseshoe Crab!",
@@ -1876,7 +1876,7 @@ return {
         },
         ["Icon"] = "rbxassetid://82281991219618",
         ["Hint"] = "It stirs when the winds howl through the faded light.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -1910,7 +1910,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.5,
         ["Hint"] = "Appears in the deepest, coldest waters, especially in the dark.",
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -1940,7 +1940,7 @@ return {
         },
         ["Icon"] = "rbxassetid://87980683683213",
         ["Hint"] = "It glows in the cold, wet shadows of dusk.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -1974,7 +1974,7 @@ return {
             [1] = 6,
             [2] = 14,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.819608, 0.352941, 0.352941,
         ["Quips"] = {
             [1] = "A Crusty Crab!",
@@ -2005,7 +2005,7 @@ return {
         },
         ["XP"] = 350,
         ["Hint"] = "Only can be caught during Ashfall.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -2036,7 +2036,7 @@ return {
         },
         ["Icon"] = "rbxassetid://117663818734096",
         ["Hint"] = "Found in the vibrant carrot pool!",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -2070,7 +2070,7 @@ return {
             [1] = 20,
             [2] = 60,
         },
-        ["HoldAnimation"] = heavybasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavybasic]",
         ["SparkleColor"] = 0.490196, 0.494118, 0.482353,
         ["Quips"] = {
             [1] = "Woah! The Three Eyed Fish!",
@@ -2096,7 +2096,7 @@ return {
         },
         ["Icon"] = "rbxassetid://132778604345651",
         ["Hint"] = "It spikes through the restless frostâ€™s blaze.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -2130,7 +2130,7 @@ return {
         },
         ["XP"] = 2400,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -2167,7 +2167,7 @@ return {
         },
         ["XP"] = 62,
         ["Hint"] = "Caught in oceans using a net.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -2200,7 +2200,7 @@ return {
         },
         ["Icon"] = "rbxassetid://85718883692768",
         ["Hint"] = "It bristles in the chill where the rain drums.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -2232,7 +2232,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.1,
         ["Hint"] = "When the storm rages, the passion approaches.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -2263,7 +2263,7 @@ return {
             [1] = 30,
             [2] = 70,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.913725, 0.490196,
         ["Quips"] = {
             [1] = "I caught a Snook!",
@@ -2293,7 +2293,7 @@ return {
         },
         ["Icon"] = "rbxassetid://124021549219972",
         ["Hint"] = "It soars beneath stormy whispers.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -2326,7 +2326,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "???",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -2358,7 +2358,7 @@ return {
         },
         ["XP"] = 170,
         ["Hint"] = "Only can be caught during Ashfall.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -2390,7 +2390,7 @@ return {
             [1] = 200,
             [2] = 450,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.396078, 0.643137, 1,
         ["Quips"] = {
             [1] = "A MASSIVE MARLIN!",
@@ -2420,7 +2420,7 @@ return {
             [1] = 40,
             [2] = 100,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.254902, 0.65098, 1,
         ["Quips"] = {
             [1] = "Salmoff!",
@@ -2452,7 +2452,7 @@ return {
         },
         ["XP"] = 0,
         ["Hint"] = "From catching Clams.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -2481,7 +2481,7 @@ return {
         },
         ["Icon"] = "rbxassetid://119725034311950",
         ["Hint"] = "Surfaces in thick fog, as if the volcano itself breathes it to life.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -2512,7 +2512,7 @@ return {
             [1] = 100,
             [2] = 200,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.666667, 0.34902,
         ["Quips"] = {
             [1] = "Triton's Herald!",
@@ -2540,7 +2540,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.15,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -2575,7 +2575,7 @@ return {
         },
         ["XP"] = 7000,
         ["Hint"] = "???",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -2607,7 +2607,7 @@ return {
             [1] = 400,
             [2] = 700,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.290196, 0.329412, 0.517647,
         ["Quips"] = {
             [1] = "A Cobia!",
@@ -2644,7 +2644,7 @@ return {
         },
         ["XP"] = 500000,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -2676,7 +2676,7 @@ return {
             [1] = 50,
             [2] = 150,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "A Catfish!",
@@ -2706,7 +2706,7 @@ return {
         },
         ["Icon"] = "rbxassetid://107526449346405",
         ["Hint"] = "It gleams where the fog hides the secrets.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -2740,7 +2740,7 @@ return {
             [1] = 100,
             [2] = 200,
         },
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["SparkleColor"] = 0.384314, 0.243137, 0.470588,
         ["Quips"] = {
             [1] = "A TENTACLE EEL!",
@@ -2770,7 +2770,7 @@ return {
         },
         ["Icon"] = "rbxassetid://120382401661595",
         ["Hint"] = "It drifts where the fog hides the abyss.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -2803,7 +2803,7 @@ return {
         },
         ["Icon"] = "rbxassetid://119725034311950",
         ["Hint"] = "Appears randomly in Lucky Event pools, lured by a rainbow glow.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -2833,7 +2833,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "Only can be caught during FischFright.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -2867,7 +2867,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.25,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -2899,7 +2899,7 @@ return {
         },
         ["Icon"] = "rbxassetid://102687577048594",
         ["Hint"] = "It blossoms where the rain meets the deep.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -2933,7 +2933,7 @@ return {
             [1] = 200,
             [2] = 400,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.690196, 0.827451, 1,
         ["Quips"] = {
             [1] = "An Icebreaker Haddock!",
@@ -2962,7 +2962,7 @@ return {
         },
         ["XP"] = 7500,
         ["Hint"] = "Caught in oceans using a net.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
             [2] = "Spring",
@@ -2996,7 +2996,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.6,
         ["Hint"] = "Swims near coral reefs and sunken ruins in shallow waters during the cold nights.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -3023,7 +3023,7 @@ return {
         },
         ["XP"] = 30,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -3055,7 +3055,7 @@ return {
         },
         ["XP"] = 65,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -3093,7 +3093,7 @@ return {
         },
         ["Icon"] = "rbxassetid://102903621677111",
         ["Hint"] = "It soars when the light fades red.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -3126,7 +3126,7 @@ return {
         },
         ["Icon"] = "rbxassetid://135539930141529",
         ["Hint"] = "It flashes within the deep fog.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -3157,7 +3157,7 @@ return {
         },
         ["XP"] = 2800,
         ["Hint"] = "Drifting near seaweed & algae in the Oceanside.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -3185,7 +3185,7 @@ return {
         },
         ["Icon"] = "rbxassetid://73446225269523",
         ["Hint"] = "It barrels where the rain pounds the sea.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -3214,7 +3214,7 @@ return {
         ["Chance"] = 0,
         ["Icon"] = "rbxassetid://80553083768726",
         ["Hint"] = "It darts through the mist where the waves whisper.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Rarity"] = "Common",
         ["WeightPool"] = {
             [1] = 5,
@@ -3244,7 +3244,7 @@ return {
             [1] = 200,
             [2] = 400,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.858824, 0.858824, 1,
         ["Quips"] = {
             [1] = "A Lapisjack!",
@@ -3275,7 +3275,7 @@ return {
             [1] = 5,
             [2] = 20,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.717647, 0.976471, 1,
         ["Quips"] = {
             [1] = "The hairstyle??",
@@ -3307,7 +3307,7 @@ return {
             [1] = 30,
             [2] = 70,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.4, 0.698039, 1,
         ["Quips"] = {
             [1] = "A Frostscale Fangtooth!",
@@ -3334,7 +3334,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -3365,7 +3365,7 @@ return {
             [1] = 10,
             [2] = 35,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.760784, 1, 0.505882,
         ["Quips"] = {
             [1] = "A Burbot!",
@@ -3393,7 +3393,7 @@ return {
         },
         ["Icon"] = "rbxassetid://118193612403596",
         ["Hint"] = "Its graze drifts where winds calm the sea.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -3425,7 +3425,7 @@ return {
             [1] = 35,
             [2] = 75,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.784314, 0.913725, 1,
         ["Quips"] = {
             [1] = "A Snowback Char!",
@@ -3470,7 +3470,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.25,
         ["Hint"] = "The depths grow hollow in its wake, Kraken Pool.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -3502,7 +3502,7 @@ return {
         },
         ["Icon"] = "rbxassetid://140635213153226",
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -3536,7 +3536,7 @@ return {
             [1] = 200,
             [2] = 450,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.447059, 0.305882, 0.533333,
         ["Quips"] = {
             [1] = "A DEEP ONE!",
@@ -3566,7 +3566,7 @@ return {
         },
         ["Icon"] = "rbxassetid://106375786188188",
         ["Hint"] = "It slips away when the warm rains drench the dark.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -3599,7 +3599,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.35,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -3631,7 +3631,7 @@ return {
             [1] = 450,
             [2] = 1360,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.921569, 0.529412,
         ["Quips"] = {
             [1] = "A Yellowfin Tuna!",
@@ -3661,7 +3661,7 @@ return {
         },
         ["XP"] = 0,
         ["Hint"] = "From catching Clams.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -3689,7 +3689,7 @@ return {
         },
         ["Icon"] = "rbxassetid://97038957605442",
         ["Hint"] = "It shines when the night hides the embers.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -3723,7 +3723,7 @@ return {
         },
         ["XP"] = 1800,
         ["Hint"] = "Caught in oceans using a net.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -3757,7 +3757,7 @@ return {
         },
         ["XP"] = 20,
         ["Hint"] = "Divers have found the Barracuda Spine quite often around Moosewood...",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -3785,7 +3785,7 @@ return {
             [1] = 95,
             [2] = 240,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.4, 0.698039, 1,
         ["Quips"] = {
             [1] = "An Iceberg Isopod!",
@@ -3812,7 +3812,7 @@ return {
         },
         ["Icon"] = "rbxassetid://110150591793772",
         ["Hint"] = "It slinks through the rainy shallows.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -3845,7 +3845,7 @@ return {
         },
         ["Icon"] = "rbxassetid://111709084035086",
         ["Hint"] = "Can only be caught in the Cursed Pool.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -3878,7 +3878,7 @@ return {
             [1] = 2,
             [2] = 5,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.85098, 0.760784, 0.658824,
         ["Quips"] = {
             [1] = "An Oyster!",
@@ -3908,7 +3908,7 @@ return {
             [1] = 500,
             [2] = 1400,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.333333, 0.980392, 0.862745,
         ["Quips"] = {
             [1] = "A Sapphire Stargazer!",
@@ -3937,7 +3937,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Dr. Crookspine might know what to do with this.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -3965,7 +3965,7 @@ return {
         },
         ["XP"] = 50,
         ["Hint"] = "Legends say most ancient shark dwelled in the Oceans of Roslit...",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -3993,7 +3993,7 @@ return {
             [1] = 200,
             [2] = 400,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.580392, 0, 0.827451,
         ["Quips"] = {
             [1] = "An Atlantean Alchemist!",
@@ -4021,7 +4021,7 @@ return {
         },
         ["Icon"] = "rbxassetid://80993173249983",
         ["Hint"] = "It lurks in the veiled haze of renewal.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -4054,7 +4054,7 @@ return {
             [1] = 90,
             [2] = 190,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.4, 0.698039, 1,
         ["Quips"] = {
             [1] = "A Deep Freeze Devilfish!",
@@ -4082,7 +4082,7 @@ return {
             [1] = 4,
             [2] = 9,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.235294, 0.247059, 1,
         ["Quips"] = {
             [1] = "Woah, a Bluefish!",
@@ -4112,7 +4112,7 @@ return {
         },
         ["XP"] = 90,
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -4141,7 +4141,7 @@ return {
             [1] = 20,
             [2] = 60,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.537255, 1, 0.454902,
         ["Quips"] = {
             [1] = "A Swamp Bass!",
@@ -4172,7 +4172,7 @@ return {
             [1] = 9,
             [2] = 20,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.968627, 1, 0.384314,
         ["Quips"] = {
             [1] = "Woah, a Trumpetfish!",
@@ -4201,7 +4201,7 @@ return {
         },
         ["Icon"] = "rbxassetid://119725034311950",
         ["Hint"] = "Appears randomly in Lucky Event pools, lured by a rainbow glow.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -4231,7 +4231,7 @@ return {
             [1] = 150,
             [2] = 210,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.313726, 0.313726, 0.313726,
         ["Quips"] = {
             [1] = "Ermm..?",
@@ -4263,7 +4263,7 @@ return {
         },
         ["XP"] = 460,
         ["Hint"] = "Caught in oceans using a net.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
             [2] = "Spring",
@@ -4297,7 +4297,7 @@ return {
         },
         ["XP"] = 360,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -4335,7 +4335,7 @@ return {
         },
         ["XP"] = 20000,
         ["Hint"] = "Caught in oceans using a net.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
             [2] = "Spring",
@@ -4369,7 +4369,7 @@ return {
         },
         ["Icon"] = "rbxassetid://74275363936709",
         ["Hint"] = "It blends into the muddy depths at dusk.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -4402,7 +4402,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.6,
         ["Hint"] = "Usually found in shallow water, where rain is prevalent.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -4431,7 +4431,7 @@ return {
             [1] = 1,
             [2] = 6,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.584314, 1, 0.737255,
         ["Quips"] = {
             [1] = "A Bluegill!",
@@ -4461,7 +4461,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.4,
         ["Hint"] = "With a razor-sharp edge, it is said to appear when the sun blazes overhead.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -4489,7 +4489,7 @@ return {
             [1] = 140,
             [2] = 240,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.341176, 0.909804, 0.521569,
         ["Quips"] = {
             [1] = "Ouu a Globe Jellyfish!",
@@ -4517,7 +4517,7 @@ return {
             [1] = 25,
             [2] = 50,
         },
-        ["HoldAnimation"] = heavybasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavybasic]",
         ["SparkleColor"] = 0.129412, 0.215686, 1,
         ["Quips"] = {
             [1] = "Found a Meg Spine!",
@@ -4544,7 +4544,7 @@ return {
         },
         ["Icon"] = "rbxassetid://95002653693710",
         ["Hint"] = "Not quite a lizard, typically found when under star-lit skies.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -4574,7 +4574,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.15,
         ["Hint"] = "The Phantom Meg only emerges during the eclipse & twilight hours of the celestial cycle, when the sun and moon align every seven days.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -4603,7 +4603,7 @@ return {
         },
         ["Icon"] = "rbxassetid://110086622505618",
         ["Hint"] = "If the skies are clear and the air is hot, be ready.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -4632,7 +4632,7 @@ return {
         },
         ["Icon"] = "rbxassetid://127797733096795",
         ["Hint"] = "Its zebra stripes flicker where the river bends in the fog.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -4665,7 +4665,7 @@ return {
         },
         ["XP"] = 20,
         ["Hint"] = "Ancient Algae is said to have originated from the long-lost ruins beneath the Ancient Abyss, a place where time seems to stand still...",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -4693,7 +4693,7 @@ return {
             [1] = 900,
             [2] = 2000,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 1, 0.843137, 0,
         ["Quips"] = {
             [1] = "I caught a Lepidotes!",
@@ -4721,7 +4721,7 @@ return {
             [1] = 6,
             [2] = 6,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.772549, 0.419608, 0.243137,
         ["Quips"] = {
             [1] = "Ermm..?",
@@ -4752,7 +4752,7 @@ return {
             [1] = 1,
             [2] = 5,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.235294, 0.235294,
         ["Quips"] = {
             [1] = "A Pumpkinseed!",
@@ -4781,7 +4781,7 @@ return {
         },
         ["Icon"] = "rbxassetid://76727016103329",
         ["Hint"] = "It drifts through the veiled bloom of new life.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -4815,7 +4815,7 @@ return {
             [1] = 1000,
             [2] = 2000,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.811765, 0.505882, 0.364706,
         ["Quips"] = {
             [1] = "A Halibut!",
@@ -4845,7 +4845,7 @@ return {
             [1] = 200,
             [2] = 450,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "A Snowfish!",
@@ -4874,7 +4874,7 @@ return {
         },
         ["Icon"] = "rbxassetid://82476479573398",
         ["Hint"] = "It gapes where the fog rolls thick.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -4907,7 +4907,7 @@ return {
         },
         ["Icon"] = "rbxassetid://86916024375422",
         ["Hint"] = "Can only be caught in the Cursed Pool.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -4939,7 +4939,7 @@ return {
             [1] = 60,
             [2] = 130,
         },
-        ["HoldAnimation"] = underweight,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.underweight]",
         ["SparkleColor"] = 0.843137, 0.823529, 1,
         ["Quips"] = {
             [1] = "Oh.. a Stalactite!",
@@ -4971,7 +4971,7 @@ return {
         },
         ["Icon"] = "rbxassetid://97332199725161",
         ["Hint"] = "It haunts where dreams turn dark.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -5004,7 +5004,7 @@ return {
             [1] = 175,
             [2] = 400,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.113725, 0.117647, 0.301961,
         ["Quips"] = {
             [1] = "A Deeplight Footballfish!",
@@ -5033,7 +5033,7 @@ return {
             [1] = 70,
             [2] = 200,
         },
-        ["HoldAnimation"] = heavybasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavybasic]",
         ["SparkleColor"] = 0.631373, 1, 0.968627,
         ["Quips"] = {
             [1] = "At least this one doesn't yap like a parrot..",
@@ -5061,7 +5061,7 @@ return {
         },
         ["XP"] = 20,
         ["Hint"] = "Forsaken Algae can be found in the desolate and abandoned areas of the Forsaken Depths, a place where few dare to venture...",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -5088,7 +5088,7 @@ return {
             [1] = 20,
             [2] = 70,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "Is it grey magic?",
@@ -5120,7 +5120,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "???",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -5152,7 +5152,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.05,
         ["Hint"] = "The oldest legends speak of its existence, Kraken Pool on Poseidon Wrath Event.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -5184,7 +5184,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.4,
         ["Hint"] = "Caught near Sunstone Island and can sometimes weigh over 1,000 kg.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -5219,7 +5219,7 @@ return {
         },
         ["XP"] = 400,
         ["Hint"] = "Only can be caught during FischFright.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -5249,7 +5249,7 @@ return {
         },
         ["XP"] = 240,
         ["Hint"] = "Caught in oceans using a net.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -5283,7 +5283,7 @@ return {
         },
         ["Icon"] = "rbxassetid://76075072562142",
         ["Hint"] = "Its light tempts in the foggy embers of dusk.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -5317,7 +5317,7 @@ return {
             [1] = 10,
             [2] = 50,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.490196, 0.494118, 0.482353,
         ["Quips"] = {
             [1] = "Just a piece of scrap metal!",
@@ -5344,7 +5344,7 @@ return {
             [1] = 100,
             [2] = 250,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.568627, 0.752941, 1,
         ["Quips"] = {
             [1] = "A Frozen Pike!",
@@ -5372,7 +5372,7 @@ return {
         },
         ["Icon"] = "rbxassetid://85215653083400",
         ["Hint"] = "It hangs where the rain drizzles over the sea.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -5408,7 +5408,7 @@ return {
         },
         ["Icon"] = "rbxassetid://126962069215447",
         ["Hint"] = "Appears during the darkest nights, when the ocean is still.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -5439,7 +5439,7 @@ return {
             [1] = 5,
             [2] = 20,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0, 0, 0,
         ["Quips"] = {
             [1] = "A Tempest Ray!",
@@ -5469,7 +5469,7 @@ return {
         },
         ["Icon"] = "rbxassetid://81152570606021",
         ["Hint"] = "Appears during the coldest nights, when the moon is full.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -5499,7 +5499,7 @@ return {
             [1] = 3,
             [2] = 10,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.207843, 0.235294, 0.309804,
         ["Quips"] = {
             [1] = "I caught a Spiderfish!",
@@ -5528,7 +5528,7 @@ return {
             [1] = 2,
             [2] = 15,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.976471, 0.313726,
         ["Quips"] = {
             [1] = "Ouu a Butterflyfish!",
@@ -5557,7 +5557,7 @@ return {
         },
         ["XP"] = 150,
         ["Hint"] = "Only can be caught during Fischmas24.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -5588,7 +5588,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.85,
         ["Hint"] = "Found in the deep ocean during the Night, drifting near bioluminescent creatures.",
-        ["HoldAnimation"] = heavybasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavybasic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -5615,7 +5615,7 @@ return {
         },
         ["Icon"] = "rbxassetid://112447837123195",
         ["Hint"] = "It wallows where the tide meets the mud.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -5649,7 +5649,7 @@ return {
             [1] = 30,
             [2] = 80,
         },
-        ["HoldAnimation"] = heavybasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavybasic]",
         ["SparkleColor"] = 0.490196, 0.494118, 0.482353,
         ["Quips"] = {
             [1] = "Woah, that's almost transparent, what is it??",
@@ -5675,7 +5675,7 @@ return {
         },
         ["Icon"] = "rbxassetid://113858607309335",
         ["Hint"] = "It glides where the ice meets the dawn's first light.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -5705,7 +5705,7 @@ return {
             [1] = 5,
             [2] = 150,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.27451, 0.552941, 1,
         ["Quips"] = {
             [1] = "Is it a snake?",
@@ -5735,7 +5735,7 @@ return {
             [1] = 9,
             [2] = 10,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.831373, 0.494118, 1,
         ["Quips"] = {
             [1] = "A Clam!",
@@ -5764,7 +5764,7 @@ return {
             [1] = 25,
             [2] = 50,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.129412, 0.215686, 1,
         ["Quips"] = {
             [1] = "Found a Meg Spine!",
@@ -5791,7 +5791,7 @@ return {
             [1] = 150,
             [2] = 300,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.501961, 0.976471, 1,
         ["Quips"] = {
             [1] = "A Frostbite Flounder!",
@@ -5820,7 +5820,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Hidden in the deepest, coldest parts of the cave.",
-        ["HoldAnimation"] = crate,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.crate]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -5850,7 +5850,7 @@ return {
             [1] = 55,
             [2] = 105,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.113725, 0.117647, 0.301961,
         ["Quips"] = {
             [1] = "A Titanic Black Seadevil!",
@@ -5877,7 +5877,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.85,
         ["Hint"] = "Located in deeper waters, typically when the weather is still.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -5906,7 +5906,7 @@ return {
         },
         ["Icon"] = "rbxassetid://115755978818708",
         ["Hint"] = "It streaks through the misty renewalâ€™s glow.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -5939,7 +5939,7 @@ return {
             [1] = 40,
             [2] = 60,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.670588, 1, 0.960784,
         ["Quips"] = {
             [1] = "Ermm..?",
@@ -5972,7 +5972,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Located in clear waters with a unique indescribable shine, rarely spotted within the darkness.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -6001,7 +6001,7 @@ return {
         },
         ["XP"] = 300,
         ["Hint"] = "Only can be caught during Fischmas24.",
-        ["HoldAnimation"] = crate,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.crate]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -6042,7 +6042,7 @@ return {
             [1] = 20,
             [2] = 40,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.34902, 0.34902,
         ["Quips"] = {
             [1] = "A Longtail Bass!",
@@ -6070,7 +6070,7 @@ return {
             [1] = 40,
             [2] = 90,
         },
-        ["HoldAnimation"] = heavybasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavybasic]",
         ["SparkleColor"] = 0.254902, 0.364706, 0.25098,
         ["Quips"] = {
             [1] = "That's a large frilled shark!",
@@ -6096,7 +6096,7 @@ return {
         },
         ["Icon"] = "rbxassetid://128937254044562",
         ["Hint"] = "It basks where the warm winds rage.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -6129,7 +6129,7 @@ return {
         },
         ["Icon"] = "rbxassetid://126941365600312",
         ["Hint"] = "It haunts the foggy chill of dusk.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -6160,7 +6160,7 @@ return {
         },
         ["Icon"] = "rbxassetid://128735643845295",
         ["Hint"] = "It slinks along the reef when the tide rests.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -6194,7 +6194,7 @@ return {
         },
         ["Icon"] = "rbxassetid://76050120437522",
         ["Hint"] = "It glides where the sun ignites the stillness.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -6227,7 +6227,7 @@ return {
         },
         ["Icon"] = "rbxassetid://81860867661655",
         ["Hint"] = "It waits where the light barely reaches.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -6260,7 +6260,7 @@ return {
             [1] = 2,
             [2] = 5,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.764706, 0.529412,
         ["Quips"] = {
             [1] = "A Scallop!",
@@ -6292,7 +6292,7 @@ return {
             [1] = 1000,
             [2] = 1500,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.596078, 0.596078,
         ["Quips"] = {
             [1] = "A Nurse Shark!",
@@ -6321,7 +6321,7 @@ return {
             [1] = 20,
             [2] = 50,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.537255, 0.270588,
         ["Quips"] = {
             [1] = "A Piranha!",
@@ -6352,7 +6352,7 @@ return {
             [1] = 8,
             [2] = 40,
         },
-        ["HoldAnimation"] = heavybasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavybasic]",
         ["SparkleColor"] = 0.286275, 0.290196, 0.494118,
         ["Quips"] = {
             [1] = "Oh, a Deep sea Dragonfish!",
@@ -6379,7 +6379,7 @@ return {
         },
         ["Icon"] = "rbxassetid://118960625894895",
         ["Hint"] = "Found in the vibrant carrot pool!",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -6412,7 +6412,7 @@ return {
         },
         ["XP"] = 220,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -6449,7 +6449,7 @@ return {
             [1] = 300,
             [2] = 600,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.501961, 0.443137, 0.678431,
         ["Quips"] = {
             [1] = "I caught a Slate Tuna!",
@@ -6482,7 +6482,7 @@ return {
         },
         ["Icon"] = "rbxassetid://76056791333052",
         ["Hint"] = "It bounds where the sun stokes the calm flames.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -6515,7 +6515,7 @@ return {
         },
         ["Icon"] = "rbxassetid://118920669604134",
         ["Hint"] = "It bounces where the spring blooms touch the water.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -6548,7 +6548,7 @@ return {
             [1] = "Clear",
         },
         ["ProgressEfficiency"] = 0.05,
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -6580,7 +6580,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.95,
         ["Hint"] = "Found in the ocean.",
-        ["HoldAnimation"] = heavybasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavybasic]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Spring",
@@ -6610,7 +6610,7 @@ return {
         },
         ["Icon"] = "rbxassetid://110717843323075",
         ["Hint"] = "It waddles in the water when the flowers bloom.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -6642,7 +6642,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.875,
         ["Hint"] = "Only can be caught during Fischmas24.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -6674,7 +6674,7 @@ return {
         },
         ["XP"] = 140,
         ["Hint"] = "Only can be caught during Ashfall.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -6706,7 +6706,7 @@ return {
             [1] = 250,
             [2] = 1000,
         },
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["SparkleColor"] = 0.27451, 0.298039, 0.494118,
         ["Quips"] = {
             [1] = "WOAH! A SHORTFINNED MAKO!",
@@ -6734,7 +6734,7 @@ return {
         },
         ["Icon"] = "rbxassetid://98693596371188",
         ["Hint"] = "It lurks where the depths fester.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -6768,7 +6768,7 @@ return {
             [1] = 10,
             [2] = 70,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.290196, 0.290196,
         ["Quips"] = {
             [1] = "A Red Snapper!",
@@ -6799,7 +6799,7 @@ return {
         },
         ["Icon"] = "rbxassetid://115876328247518",
         ["Hint"] = "It hides in rocks when the tide rolls in.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -6832,7 +6832,7 @@ return {
             [1] = 110,
             [2] = 110,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "Ermm..?",
@@ -6863,7 +6863,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -6894,7 +6894,7 @@ return {
         },
         ["XP"] = 115,
         ["Hint"] = "From meteors.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -6923,7 +6923,7 @@ return {
         },
         ["Icon"] = "rbxassetid://133212550618455",
         ["Hint"] = "Found in the vibrant carrot pool!",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -6956,7 +6956,7 @@ return {
             [1] = 4,
             [2] = 15,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.0745098, 0.0745098,
         ["Quips"] = {
             [1] = "An Ember Perch!",
@@ -6986,7 +6986,7 @@ return {
         },
         ["Icon"] = "rbxassetid://116436800778784",
         ["Hint"] = "It prowls where the sun blazes through the surface.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -7020,7 +7020,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.7,
         ["Hint"] = "Only rarely spotted in the oceans during a Shark Hunt.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -7052,7 +7052,7 @@ return {
         },
         ["XP"] = 460,
         ["Hint"] = "Caught in oceans using a net.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Autumn",
             [2] = "Winter",
@@ -7085,7 +7085,7 @@ return {
         },
         ["XP"] = 400,
         ["Hint"] = "Only can be caught during FischFright.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -7114,7 +7114,7 @@ return {
         },
         ["Icon"] = "rbxassetid://119725034311950",
         ["Hint"] = "Appears randomly in Lucky Event pools, lured by a rainbow glow.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -7145,7 +7145,7 @@ return {
             [1] = 1000,
             [2] = 2000,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.580392, 0, 0.827451,
         ["Quips"] = {
             [1] = "THE MAGE MARLIN!",
@@ -7173,7 +7173,7 @@ return {
         },
         ["Icon"] = "rbxassetid://110031930947706",
         ["Hint"] = "It lumbers where the fog cloaks the horizon.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -7209,7 +7209,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Dr. Crookspine might know what to do with this.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -7236,7 +7236,7 @@ return {
             [1] = 20,
             [2] = 40,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.776471, 0.439216,
         ["Quips"] = {
             [1] = "A Mosaic Swimmer!",
@@ -7264,7 +7264,7 @@ return {
         },
         ["Icon"] = "rbxassetid://106056189787720",
         ["Hint"] = "It scopes out prey in the foggy dawn.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -7297,7 +7297,7 @@ return {
             [1] = 9,
             [2] = 9,
         },
-        ["HoldAnimation"] = underweight,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.underweight]",
         ["SparkleColor"] = 1, 0, 0,
         ["Quips"] = {
             [1] = "Ermm..?",
@@ -7326,7 +7326,7 @@ return {
             [1] = 5,
             [2] = 11,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "A Herring!",
@@ -7356,7 +7356,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.7,
         ["Hint"] = "Only can be caught during Ashfall.",
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -7387,7 +7387,7 @@ return {
         },
         ["XP"] = 200,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -7419,7 +7419,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.1,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -7452,7 +7452,7 @@ return {
         },
         ["XP"] = 6900,
         ["Hint"] = "???",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -7481,7 +7481,7 @@ return {
             [1] = 3,
             [2] = 15,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.321569, 0.321569,
         ["Quips"] = {
             [1] = "Ouu a Red Tang!",
@@ -7513,7 +7513,7 @@ return {
         },
         ["Icon"] = "rbxassetid://128074767326231",
         ["Hint"] = "It lurks where the waters grow bitter.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -7547,7 +7547,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.3,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -7577,7 +7577,7 @@ return {
             [1] = 40,
             [2] = 100,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.545098, 0.917647, 1,
         ["Quips"] = {
             [1] = "An Icy Salmon!",
@@ -7605,7 +7605,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.5,
         ["Hint"] = "Can be found in Mushgrove Swamp.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -7637,7 +7637,7 @@ return {
             [1] = 1500,
             [2] = 3000,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 1, 0.933333, 0.501961,
         ["Quips"] = {
             [1] = "Zeus' HERALD!",
@@ -7667,7 +7667,7 @@ return {
         },
         ["Icon"] = "rbxassetid://107062972353177",
         ["Hint"] = "It lurks where the rain feeds the gloom.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -7701,7 +7701,7 @@ return {
             [1] = 15,
             [2] = 35,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.537255, 0.862745, 1,
         ["Quips"] = {
             [1] = "A Frigid Crab!",
@@ -7729,7 +7729,7 @@ return {
         },
         ["Icon"] = "rbxassetid://133777270496771",
         ["Hint"] = "It looms where the cold mists shroud the deep.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -7763,7 +7763,7 @@ return {
         },
         ["Icon"] = "rbxassetid://103483576267723",
         ["Hint"] = "It watches from the shallows when the sun is high.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -7797,7 +7797,7 @@ return {
             [1] = 50,
             [2] = 120,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.45098, 0.827451, 1,
         ["Quips"] = {
             [1] = "A Shiverfin Haddock!",
@@ -7825,7 +7825,7 @@ return {
         },
         ["XP"] = 40,
         ["Hint"] = "Fallen off of a fishing boat.",
-        ["HoldAnimation"] = downward,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.downward]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -7875,7 +7875,7 @@ return {
         },
         ["Icon"] = "rbxassetid://84310452827133",
         ["Hint"] = "It lounges where the autumn sun softens the ripples.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -7909,7 +7909,7 @@ return {
         },
         ["Icon"] = "rbxassetid://71230130632791",
         ["Hint"] = "It lashes where the waters grow still.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -7942,7 +7942,7 @@ return {
             [1] = 170,
             [2] = 380,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.705882, 0.141176, 0.141176,
         ["Quips"] = {
             [1] = "A Gar!",
@@ -7972,7 +7972,7 @@ return {
             [1] = 8,
             [2] = 20,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.454902, 0.827451, 1,
         ["Quips"] = {
             [1] = "An Ice Eel!",
@@ -8001,7 +8001,7 @@ return {
             [1] = 15,
             [2] = 40,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0, 0, 0,
         ["Quips"] = {
             [1] = "An Abyss Snapper!",
@@ -8030,7 +8030,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.4,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -8061,7 +8061,7 @@ return {
         },
         ["Icon"] = "rbxassetid://80405623042225",
         ["Hint"] = "It drifts where the silence grows heavy.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -8095,7 +8095,7 @@ return {
             [1] = 30,
             [2] = 60,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 1, 0.713726, 1,
         ["Quips"] = {
             [1] = "A Helios Ray!",
@@ -8124,7 +8124,7 @@ return {
         },
         ["Icon"] = "rbxassetid://83395965868895",
         ["Hint"] = "It swims under the rays of the sun.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -8158,7 +8158,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.95,
         ["Hint"] = "Found in Snowcaps ocean water during the day. Especially active near the water-side enterance of Snowcap Cave.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
             [2] = "Summer",
@@ -8190,7 +8190,7 @@ return {
             [1] = 1,
             [2] = 1,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.494118, 0.486275, 0.482353,
         ["Quips"] = {
             [1] = "Woah a bone!",
@@ -8217,7 +8217,7 @@ return {
         },
         ["Icon"] = "rbxassetid://98516812141486",
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -8251,7 +8251,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "Roams the deep ocean, patrolling sunken ruins and underwater trenches.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
             [2] = "Summer",
@@ -8280,7 +8280,7 @@ return {
             [1] = 35,
             [2] = 70,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.843137, 0.611765,
         ["Quips"] = {
             [1] = "A Philosopher's Fish!",
@@ -8308,7 +8308,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.2,
         ["Hint"] = "Swims in the deepest parts of the trench, especially under clear skies.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -8338,7 +8338,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.3,
         ["Hint"] = "Hangs out near the deepest parts of the Desolate Deep during the Night.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Spring",
             [2] = "Autumn",
@@ -8370,7 +8370,7 @@ return {
             [1] = 9,
             [2] = 50,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.388235, 0.658824, 0.368627,
         ["Quips"] = {
             [1] = "I thought theres a rainbow?",
@@ -8400,7 +8400,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Found under The Arch.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -8429,7 +8429,7 @@ return {
         },
         ["Icon"] = "rbxassetid://75195976218261",
         ["Hint"] = "It meows where the summer sun warms the currents.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -8468,7 +8468,7 @@ return {
         },
         ["XP"] = 200,
         ["Hint"] = "From meteors.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -8497,7 +8497,7 @@ return {
             [1] = 10,
             [2] = 25,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.952941, 1, 0.054902,
         ["Quips"] = {
             [1] = "IS THAT A CAPTAIN GOLDFISH?!",
@@ -8524,7 +8524,7 @@ return {
             [1] = 10,
             [2] = 45,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.67451, 1, 0.52549,
         ["Quips"] = {
             [1] = "Now, where's the snare?",
@@ -8544,7 +8544,7 @@ return {
         ["XP"] = 20,
         ["Resilience"] = 80,
     },
-    ["ToHex"] = function: 0x5a0114611963d6f6,
+    ["ToHex"] = "[Function]",
     ["Brine Phantom"] = {
         ["FavouriteTime"] = "Night",
         ["SparkleColor"] = 0.321569, 1, 0.537255,
@@ -8556,7 +8556,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.7,
         ["Hint"] = "Found in the Brine Pool.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -8585,7 +8585,7 @@ return {
         },
         ["XP"] = 560,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -8623,7 +8623,7 @@ return {
             [1] = 60,
             [2] = 120,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.337255, 0.603922, 1,
         ["Quips"] = {
             [1] = "A GIANT MANTA!",
@@ -8652,7 +8652,7 @@ return {
         },
         ["Icon"] = "rbxassetid://100194202489039",
         ["Hint"] = "It glides where the winds carve the bog's surface.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -8686,7 +8686,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.6,
         ["Hint"] = "Hidden in the oldest, deepest part of the frozen cavern.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -8716,7 +8716,7 @@ return {
             [1] = 5,
             [2] = 15,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.964706, 0.498039,
         ["Quips"] = {
             [1] = "Ouch! Static shock!",
@@ -8746,7 +8746,7 @@ return {
         },
         ["Icon"] = "rbxassetid://121667674321951",
         ["Hint"] = "Its glare cuts through the foggy nightâ€™s heat.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -8780,7 +8780,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.6,
         ["Hint"] = "Only appears when the aurora shimmers above the canal.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -8809,7 +8809,7 @@ return {
             [1] = 1,
             [2] = 2,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.592157, 1, 0.831373,
         ["Quips"] = {
             [1] = "Woah, Moon Wood!",
@@ -8835,7 +8835,7 @@ return {
             [1] = 1,
             [2] = 2,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.713726, 0.254902, 1,
         ["Quips"] = {
             [1] = "???",
@@ -8862,7 +8862,7 @@ return {
             [1] = 30,
             [2] = 70,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.611765, 0.937255, 1,
         ["Quips"] = {
             [1] = "An Icy Carp!",
@@ -8891,7 +8891,7 @@ return {
             [1] = 80,
             [2] = 160,
         },
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["SparkleColor"] = 0.396078, 0.643137, 1,
         ["Quips"] = {
             [1] = "A LEVIATHAN BASS!",
@@ -8921,7 +8921,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.25,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -8954,7 +8954,7 @@ return {
             [1] = 4,
             [2] = 20,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.72549, 0.729412, 1,
         ["Quips"] = {
             [1] = "A Cockatoo Squid!",
@@ -8983,7 +8983,7 @@ return {
             [1] = 50,
             [2] = 200,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.666667, 0.666667, 0.498039,
         ["Quips"] = {
             [1] = "WOAH! A GALLEON GOLIATH!",
@@ -9010,7 +9010,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "Only can be caught during FischFright.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "Winter",
             [2] = "Autumn",
@@ -9043,7 +9043,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "Located in clear waters with a wide variation of shining colors, frequently providing light to the darkness.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -9072,7 +9072,7 @@ return {
         },
         ["Icon"] = "rbxassetid://126520579702144",
         ["Hint"] = "It scavenges where the rain muddies the depths.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -9106,7 +9106,7 @@ return {
             [1] = 30,
             [2] = 100,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.627451, 0.627451,
         ["Quips"] = {
             [1] = "A Hallucigenia!",
@@ -9135,7 +9135,7 @@ return {
             [1] = 10,
             [2] = 25,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.941176, 0.635294,
         ["Quips"] = {
             [1] = "Oh.. a Bone!",
@@ -9164,7 +9164,7 @@ return {
             [1] = 10,
             [2] = 20,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.129412, 0.215686, 1,
         ["Quips"] = {
             [1] = "Found a Meg Fang!",
@@ -9191,7 +9191,7 @@ return {
         },
         ["Icon"] = "rbxassetid://126840673773248",
         ["Hint"] = "It sparkles where the sun kisses the horizon.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -9225,7 +9225,7 @@ return {
             [1] = 1000,
             [2] = 1400,
         },
-        ["HoldAnimation"] = heavybasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavybasic]",
         ["SparkleColor"] = 0.321569, 0.368627, 0.8,
         ["Quips"] = {
             [1] = "Ouu an Onychodus!",
@@ -9255,7 +9255,7 @@ return {
         },
         ["XP"] = 400000,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
             [2] = "Spring",
@@ -9292,7 +9292,7 @@ return {
             [1] = 70,
             [2] = 160,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.635294, 0.682353, 1,
         ["Quips"] = {
             [1] = "I caught a Tuna!",
@@ -9322,7 +9322,7 @@ return {
         },
         ["Icon"] = "rbxassetid://136382079356398",
         ["Hint"] = "It bites where the rain stirs the dark.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -9356,7 +9356,7 @@ return {
         },
         ["Icon"] = "rbxassetid://136572643815500",
         ["Hint"] = "It glides where the currents hum softly.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -9379,7 +9379,7 @@ return {
         ["ProgressEfficiency"] = 1.1,
         ["Resilience"] = 45,
     },
-    ["ToInteger"] = function: 0x0c5317d12fc21316,
+    ["ToInteger"] = "[Function]",
     ["Turkey"] = {
         ["SparkleColor"] = 0.815686, 0.407843, 0.529412,
         ["Description"] = "Turkeys are large and heavy birds with a uniquely-shaped tail consisting of many feathers that line up to create a circular pattern. However, the poor Turkey is the desired choice of food for many fischers for Fischgiving dinner.",
@@ -9390,7 +9390,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.35,
         ["Hint"] = "Only obtainable during Fischgiving",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -9421,7 +9421,7 @@ return {
         },
         ["XP"] = 280,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -9452,7 +9452,7 @@ return {
         },
         ["XP"] = 300,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -9483,7 +9483,7 @@ return {
         },
         ["XP"] = 280,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -9516,7 +9516,7 @@ return {
             [1] = 3,
             [2] = 15,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.113725, 0.113725,
         ["Quips"] = {
             [1] = "A Redeyed Bass!",
@@ -9545,7 +9545,7 @@ return {
         },
         ["Icon"] = "rbxassetid://97819315465161",
         ["Hint"] = "Can only be caught in the Cursed Pool.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -9577,7 +9577,7 @@ return {
         },
         ["Icon"] = "rbxassetid://72266570463259",
         ["Hint"] = "It flails where the rain feeds the water's heart.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -9612,7 +9612,7 @@ return {
             [1] = 5,
             [2] = 30,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.972549, 1, 0.662745,
         ["Quips"] = {
             [1] = "A Corgi.. I mean Porgy??",
@@ -9644,7 +9644,7 @@ return {
             [1] = 5,
             [2] = 25,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.678431, 0.4,
         ["Quips"] = {
             [1] = "A Squid!",
@@ -9673,7 +9673,7 @@ return {
             [1] = 90,
             [2] = 250,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.333333, 1, 1,
         ["Quips"] = {
             [1] = "WOAH! A BUCCANEER BARRACUDA!",
@@ -9701,7 +9701,7 @@ return {
         },
         ["XP"] = 180,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -9732,7 +9732,7 @@ return {
         },
         ["XP"] = 150,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -9764,7 +9764,7 @@ return {
             [1] = 40,
             [2] = 90,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.690196, 0.827451, 1,
         ["Quips"] = {
             [1] = "An Icy Walleye!",
@@ -9792,7 +9792,7 @@ return {
         },
         ["XP"] = 220,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -9824,7 +9824,7 @@ return {
             [1] = 18,
             [2] = 40,
         },
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["SparkleColor"] = 1, 0.4, 0.180392,
         ["Quips"] = {
             [1] = "An Embertail Eel!",
@@ -9851,7 +9851,7 @@ return {
         },
         ["XP"] = 70,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -9884,7 +9884,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.2,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -9913,7 +9913,7 @@ return {
         },
         ["Icon"] = "rbxassetid://128935101956474",
         ["Hint"] = "It snaps where the stillness breaks.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -9946,7 +9946,7 @@ return {
         },
         ["XP"] = 50,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -9977,7 +9977,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.5,
         ["Hint"] = "Can be found when fishing in a strange whirlpool.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -10009,7 +10009,7 @@ return {
         },
         ["Icon"] = "rbxassetid://98841634367281",
         ["Hint"] = "It prowls the shrouded embers of night.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -10043,7 +10043,7 @@ return {
         },
         ["Icon"] = "rbxassetid://132703206802175",
         ["Hint"] = "It emerges when the moon glows faintly.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -10076,7 +10076,7 @@ return {
             [1] = 25,
             [2] = 50,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.129412, 0.215686, 1,
         ["Quips"] = {
             [1] = "Found a Meg Spine!",
@@ -10103,7 +10103,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.4,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -10135,7 +10135,7 @@ return {
         },
         ["Icon"] = "rbxassetid://78716099008235",
         ["Hint"] = "Kiwi would be fond of this",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -10168,7 +10168,7 @@ return {
             [1] = 5,
             [2] = 20,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.443137, 0.443137, 0.443137,
         ["Quips"] = {
             [1] = "A Blackfish!",
@@ -10196,7 +10196,7 @@ return {
             [1] = 6,
             [2] = 14,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.556863, 0.72549, 0.305882,
         ["Quips"] = {
             [1] = "A Swamp Scallop!",
@@ -10227,7 +10227,7 @@ return {
         },
         ["Icon"] = "rbxassetid://127503265905341",
         ["Hint"] = "Can be collected by feeding a baby anglerfish",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -10258,7 +10258,7 @@ return {
         },
         ["Icon"] = "rbxassetid://105080078239199",
         ["Hint"] = "It hunts under the clear duskâ€™s glow.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -10292,7 +10292,7 @@ return {
         },
         ["Icon"] = "rbxassetid://130323250031239",
         ["Hint"] = "It lunges where the wind rustles the water.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -10326,7 +10326,7 @@ return {
         },
         ["Icon"] = "rbxassetid://112955322009977",
         ["Hint"] = "It hides where the lagoon blooms in stillness.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -10359,7 +10359,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.85,
         ["Hint"] = "Caught in Roslit Bays coral reef.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -10388,7 +10388,7 @@ return {
             [1] = 150,
             [2] = 300,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.741176, 0.698039, 1,
         ["Quips"] = {
             [1] = "A Static Ray!",
@@ -10418,7 +10418,7 @@ return {
         },
         ["Icon"] = "rbxassetid://126596829342845",
         ["Hint"] = "It thrives where the cool water runs deep and slow.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -10452,7 +10452,7 @@ return {
         },
         ["XP"] = 130,
         ["Hint"] = "Only can be caught during Ashfall.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -10484,7 +10484,7 @@ return {
         },
         ["Icon"] = "rbxassetid://128937254044562",
         ["Hint"] = "It crests where the warm rains fuel the dark.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -10518,7 +10518,7 @@ return {
         },
         ["Icon"] = "rbxassetid://124582234258164",
         ["Hint"] = "It glows where the winds whip the waves.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -10552,7 +10552,7 @@ return {
         },
         ["Icon"] = "rbxassetid://76876467738469",
         ["Hint"] = "It gulps where the rain pours deep.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -10585,7 +10585,7 @@ return {
         },
         ["Icon"] = "rbxassetid://74678661777712",
         ["Hint"] = "Its antlers sway where snow dusts the water.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -10617,7 +10617,7 @@ return {
         },
         ["Icon"] = "rbxassetid://118721375993994",
         ["Hint"] = "It thrives in the midst of chaos.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -10651,7 +10651,7 @@ return {
         },
         ["Icon"] = "rbxassetid://136127658076818",
         ["Hint"] = "It stumbles where the depths grow cold.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -10685,7 +10685,7 @@ return {
         },
         ["Icon"] = "rbxassetid://109566954982411",
         ["Hint"] = "It cuts where the fog blinds all.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -10719,7 +10719,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Found in Mushgrove Swamp during the night.",
-        ["HoldAnimation"] = heavybasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavybasic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -10750,7 +10750,7 @@ return {
         },
         ["Icon"] = "rbxassetid://109897068344522",
         ["Hint"] = "It mocks you where the rain hits hard.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -10784,7 +10784,7 @@ return {
         },
         ["Icon"] = "rbxassetid://136363239688693",
         ["Hint"] = "It strikes where the waves roar loud.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -10818,7 +10818,7 @@ return {
             [1] = 1,
             [2] = 3,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.847059, 0.984314, 1,
         ["Quips"] = {
             [1] = "I can barely see it!",
@@ -10847,7 +10847,7 @@ return {
         },
         ["Icon"] = "rbxassetid://107948417304479",
         ["Hint"] = "It shines where the night swallows the sea.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -10881,7 +10881,7 @@ return {
         },
         ["Icon"] = "rbxassetid://80389769702703",
         ["Hint"] = "It spirals where the waters twist.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -10916,7 +10916,7 @@ return {
             [1] = 200,
             [2] = 450,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.298039, 0.494118, 0.172549,
         ["Quips"] = {
             [1] = "Wow, that's a Goblin Shark?",
@@ -10943,7 +10943,7 @@ return {
             [1] = 40,
             [2] = 90,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.631373, 1, 0.968627,
         ["Quips"] = {
             [1] = "Ya think he's strong?",
@@ -10969,7 +10969,7 @@ return {
         },
         ["Icon"] = "rbxassetid://71517123874797",
         ["Hint"] = "It hums where the winds churn the waves.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -11003,7 +11003,7 @@ return {
         },
         ["Icon"] = "rbxassetid://77872112276118",
         ["Hint"] = "It sticks where the waves crash hard.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -11036,7 +11036,7 @@ return {
         },
         ["Icon"] = "rbxassetid://93265006831225",
         ["Hint"] = "It stares where the currents swirl.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -11070,7 +11070,7 @@ return {
         },
         ["Icon"] = "rbxassetid://121080756125367",
         ["Hint"] = "It frolics where the waves crash gently.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -11103,7 +11103,7 @@ return {
         },
         ["XP"] = 80,
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -11135,7 +11135,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.5,
         ["Hint"] = "Only appears in the deepest, darkest parts of the Glacial Grotto.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -11166,7 +11166,7 @@ return {
         },
         ["Icon"] = "rbxassetid://77825372078181",
         ["Hint"] = "It hugs the sand when the sun shines bright.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -11200,7 +11200,7 @@ return {
         },
         ["Icon"] = "rbxassetid://126716943700827",
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -11235,7 +11235,7 @@ return {
         },
         ["Icon"] = "rbxassetid://121420749539557",
         ["Hint"] = "It rises where the void claims all.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -11269,7 +11269,7 @@ return {
             [1] = 55,
             [2] = 110,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.341176, 0.301961, 0.454902,
         ["Quips"] = {
             [1] = "Woah, a n Abyssacuda!",
@@ -11298,7 +11298,7 @@ return {
         },
         ["Icon"] = "rbxassetid://107762008925903",
         ["Hint"] = "It clings where the chasms yawn wide.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -11332,7 +11332,7 @@ return {
         },
         ["Icon"] = "rbxassetid://107762008925903",
         ["Hint"] = "It wails where the waters tremble.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -11366,7 +11366,7 @@ return {
         },
         ["Icon"] = "rbxassetid://120122502922513",
         ["Hint"] = "It hunts in the darkest corners of the sea.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -11400,7 +11400,7 @@ return {
             [1] = 800,
             [2] = 1600,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.6, 0.4, 0,
         ["Quips"] = {
             [1] = "I caught a Diplurus!",
@@ -11428,7 +11428,7 @@ return {
             [1] = 1,
             [2] = 2,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.894118, 1, 0.54902,
         ["Quips"] = {
             [1] = "Ancient Wood!",
@@ -11454,7 +11454,7 @@ return {
         },
         ["Icon"] = "rbxassetid://119725034311950",
         ["Hint"] = "Appears randomly in Lucky Event pools, lured by a rainbow glow.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -11485,7 +11485,7 @@ return {
         },
         ["Icon"] = "rbxassetid://82191223150871",
         ["Hint"] = "It creeps where the shadows stretch long.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -11519,7 +11519,7 @@ return {
         },
         ["Icon"] = "rbxassetid://112900025094188",
         ["Hint"] = "It hunts where the currents split.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -11553,7 +11553,7 @@ return {
             [1] = 1,
             [2] = 1,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.494118, 0.486275, 0.482353,
         ["Quips"] = {
             [1] = "Woah a bone!",
@@ -11579,7 +11579,7 @@ return {
         },
         ["Icon"] = "rbxassetid://89388598287015",
         ["Hint"] = "It hunts under the rainy mist.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -11610,7 +11610,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.6,
         ["Hint"] = "Dwells in the oldest, deepest parts of the frozen waters.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -11640,7 +11640,7 @@ return {
         },
         ["Icon"] = "rbxassetid://109966045464913",
         ["Hint"] = "It glides where the waters turn thick.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -11674,7 +11674,7 @@ return {
         },
         ["Icon"] = "rbxassetid://124108855972980",
         ["Hint"] = "It prowls where decay lingers.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -11708,7 +11708,7 @@ return {
         },
         ["Icon"] = "rbxassetid://137775603621331",
         ["Hint"] = "It strikes where the light fades.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -11741,7 +11741,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.65,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -11772,7 +11772,7 @@ return {
             [1] = 10,
             [2] = 20,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "Like catching a snowflake!",
@@ -11800,7 +11800,7 @@ return {
             [1] = 45,
             [2] = 75,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "Oh.. a Log!",
@@ -11831,7 +11831,7 @@ return {
         },
         ["Icon"] = "rbxassetid://86526174459017",
         ["Hint"] = "It glides where the fog veils the tide.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -11865,7 +11865,7 @@ return {
         },
         ["Icon"] = "rbxassetid://71480787883450",
         ["Hint"] = "It haunts the abyss under stormy skies.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -11899,7 +11899,7 @@ return {
         },
         ["Icon"] = "rbxassetid://97920152799947",
         ["Hint"] = "Its light dances in the warm twilight glow.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -11934,7 +11934,7 @@ return {
             [1] = 5,
             [2] = 20,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.713726, 0.0980392, 0.0980392,
         ["Quips"] = {
             [1] = "Woah, an Anglerfish!",
@@ -11962,7 +11962,7 @@ return {
             [1] = 100,
             [2] = 210,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.113725, 0.117647, 0.301961,
         ["Quips"] = {
             [1] = "A Radiant Triplewart Seadevil!",
@@ -11989,7 +11989,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Prefers to swim in groups, where conditions are clear.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -12018,7 +12018,7 @@ return {
         },
         ["Icon"] = "rbxassetid://88780865663711",
         ["Hint"] = "It stalks through the bright embers of dawn.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -12051,7 +12051,7 @@ return {
             [1] = 200,
             [2] = 400,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.219608, 0.207843, 0.52549,
         ["Quips"] = {
             [1] = "A Keepers Guardian!",
@@ -12082,7 +12082,7 @@ return {
             [1] = 4,
             [2] = 10,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.47451, 1, 0.313726,
         ["Quips"] = {
             [1] = "A SEA PICKLE!!",
@@ -12111,7 +12111,7 @@ return {
         },
         ["XP"] = 800,
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -12142,7 +12142,7 @@ return {
             [1] = 8,
             [2] = 16,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.929412, 0.537255,
         ["Quips"] = {
             [1] = "A tiny frozen friend!",
@@ -12171,7 +12171,7 @@ return {
             [1] = 80,
             [2] = 250,
         },
-        ["HoldAnimation"] = heavybasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavybasic]",
         ["SparkleColor"] = 0.490196, 0.494118, 0.482353,
         ["Quips"] = {
             [1] = "Is that a Spider.. Or a Crab??",
@@ -12198,7 +12198,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.05,
         ["Hint"] = "Appears during the calmest days, when the wind is strong.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -12228,7 +12228,7 @@ return {
             [1] = 500,
             [2] = 1000,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0, 1, 1,
         ["Quips"] = {
             [1] = "THE DEEP CROWNFISH!",
@@ -12256,7 +12256,7 @@ return {
         },
         ["Icon"] = "rbxassetid://95453863689311",
         ["Hint"] = "It drifts where the warm gusts fan the flames.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -12290,7 +12290,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Found in the Brine Pool.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -12320,7 +12320,7 @@ return {
         },
         ["XP"] = 400,
         ["Hint"] = "Only can be caught during FischFright.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -12350,7 +12350,7 @@ return {
         },
         ["Icon"] = "rbxassetid://105722497808580",
         ["Hint"] = "Found in the vibrant carrot pool!",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -12384,7 +12384,7 @@ return {
         },
         ["Icon"] = "rbxassetid://88606898103971",
         ["Hint"] = "It races through the restless chill of ash.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -12417,7 +12417,7 @@ return {
             [1] = 25,
             [2] = 50,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.129412, 0.215686, 1,
         ["Quips"] = {
             [1] = "Found a Meg Spine!",
@@ -12444,7 +12444,7 @@ return {
             [1] = 50,
             [2] = 95,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.411765, 0.705882,
         ["Quips"] = {
             [1] = "A Siren Singer!",
@@ -12472,7 +12472,7 @@ return {
         },
         ["Icon"] = "rbxassetid://84104910132694",
         ["Hint"] = "It basks where the breeze meets the tide.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -12505,7 +12505,7 @@ return {
         },
         ["Icon"] = "rbxassetid://107608220521320",
         ["Hint"] = "Washed up from a tropical fishing expedition.",
-        ["HoldAnimation"] = crate,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.crate]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -12578,7 +12578,7 @@ return {
             [1] = 200,
             [2] = 450,
         },
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["SparkleColor"] = 0.501961, 0.976471, 1,
         ["Quips"] = {
             [1] = "A Glacier Swordfish!",
@@ -12607,7 +12607,7 @@ return {
         },
         ["Icon"] = "rbxassetid://138452270788009",
         ["Hint"] = "Its fire pulses through the bright renewal.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -12641,7 +12641,7 @@ return {
         },
         ["Icon"] = "rbxassetid://96112150720341",
         ["Hint"] = "It pierces the cold, wet dusk.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -12675,7 +12675,7 @@ return {
             [1] = 700,
             [2] = 1800,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.8, 0.6, 0,
         ["Quips"] = {
             [1] = "I caught an Amblypterus!",
@@ -12703,7 +12703,7 @@ return {
         },
         ["Icon"] = "rbxassetid://72618370604258",
         ["Hint"] = "It shines where the sun touches the sea.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -12737,7 +12737,7 @@ return {
         },
         ["Icon"] = "rbxassetid://99140611676362",
         ["Hint"] = "It slithers under the crisp fire of dawn.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -12770,7 +12770,7 @@ return {
         },
         ["XP"] = 600,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -12801,7 +12801,7 @@ return {
         },
         ["Icon"] = "rbxassetid://132499310365024",
         ["Hint"] = "It bites where the fog hides the shore.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -12833,7 +12833,7 @@ return {
             [1] = 40,
             [2] = 90,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.631373, 1, 0.968627,
         ["Quips"] = {
             [1] = "I love crystals..",
@@ -12860,7 +12860,7 @@ return {
         },
         ["XP"] = 50,
         ["Hint"] = "???",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -12890,7 +12890,7 @@ return {
             [1] = 6,
             [2] = 30,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.619608, 0.286275,
         ["Quips"] = {
             [1] = "Ouu a Blue Tang!",
@@ -12922,7 +12922,7 @@ return {
         },
         ["XP"] = 260,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -12959,7 +12959,7 @@ return {
             [1] = 10,
             [2] = 50,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.729412, 0.490196,
         ["Quips"] = {
             [1] = "Is it magic?",
@@ -12992,7 +12992,7 @@ return {
         },
         ["Icon"] = "rbxassetid://124187551496782",
         ["Hint"] = "It rises when the winds fan the ancient fires.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -13026,7 +13026,7 @@ return {
         },
         ["Icon"] = "rbxassetid://105209291563546",
         ["Hint"] = "It streaks under the clear blaze of day.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -13059,7 +13059,7 @@ return {
             [1] = 10000,
             [2] = 18000,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.447059, 0.890196, 0.54902,
         ["Quips"] = {
             [1] = "Ouu a Hyneria!",
@@ -13088,7 +13088,7 @@ return {
             [1] = 25,
             [2] = 55,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.85098, 0.560784,
         ["Quips"] = {
             [1] = "A Temple Drifter!",
@@ -13115,7 +13115,7 @@ return {
             [1] = 600,
             [2] = 1200,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.631373, 0.768627, 1,
         ["Quips"] = {
             [1] = "A Stormcloud Angel!",
@@ -13146,7 +13146,7 @@ return {
         },
         ["Icon"] = "rbxassetid://128425433008144",
         ["Hint"] = "It grooves where the fog gets funky.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -13180,7 +13180,7 @@ return {
         },
         ["Icon"] = "rbxassetid://82608711781963",
         ["Hint"] = "It darts where the soot settles under daylight.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -13214,7 +13214,7 @@ return {
         },
         ["XP"] = 135,
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -13243,7 +13243,7 @@ return {
             [1] = 600,
             [2] = 1600,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.333333, 0.980392, 0.862745,
         ["Quips"] = {
             [1] = "An Emerald Elephantnose!",
@@ -13272,7 +13272,7 @@ return {
             [1] = 800,
             [2] = 2000,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.113725, 0.117647, 0.301961,
         ["Quips"] = {
             [1] = "A Colossal Saccopharynx!",
@@ -13300,7 +13300,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "Caught near Terrapin Island during the day.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -13330,7 +13330,7 @@ return {
             [1] = 2,
             [2] = 12,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.466667, 0.639216, 0.301961,
         ["Quips"] = {
             [1] = "A Perch!",
@@ -13360,7 +13360,7 @@ return {
         },
         ["Icon"] = "rbxassetid://135875191174775",
         ["Hint"] = "It flashes through the cold, wet twilight.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -13393,7 +13393,7 @@ return {
         },
         ["Icon"] = "rbxassetid://140472962459296",
         ["Hint"] = "It squeaks where the fog blankets the morning tide.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -13427,7 +13427,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.5,
         ["Hint"] = "Found in darker waters in the oceanside.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -13456,7 +13456,7 @@ return {
         },
         ["Icon"] = "rbxassetid://118539928945168",
         ["Hint"] = "Its eerie light cuts through the shrouded dusk.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -13490,7 +13490,7 @@ return {
         },
         ["Icon"] = "rbxassetid://91242996252487",
         ["Hint"] = "It dances under the crisp light of a frozen dawn.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -13525,7 +13525,7 @@ return {
             [1] = 5,
             [2] = 20,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "A Grayling!",
@@ -13553,7 +13553,7 @@ return {
         },
         ["XP"] = 150,
         ["Hint"] = "From meteors.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -13581,7 +13581,7 @@ return {
         },
         ["Icon"] = "rbxassetid://89876897754455",
         ["Hint"] = "It weaves through the currents when the warm gusts stir.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -13614,7 +13614,7 @@ return {
         },
         ["Icon"] = "rbxassetid://84356183101180",
         ["Hint"] = "Seek it where the mist meets the eye.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -13648,7 +13648,7 @@ return {
         },
         ["Icon"] = "rbxassetid://113365976852842",
         ["Hint"] = "It prowls when the tide turns restless.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -13681,7 +13681,7 @@ return {
             [1] = 70,
             [2] = 150,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.976471, 0.34902,
         ["Quips"] = {
             [1] = "I caught a Mahi Mahi!",
@@ -13711,7 +13711,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.4,
         ["Hint"] = "Found in the Ocean.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -13742,7 +13742,7 @@ return {
         },
         ["Icon"] = "rbxassetid://128054132545586",
         ["Hint"] = "It blazes where the warm rains ignite the dark.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -13777,7 +13777,7 @@ return {
             [1] = 1,
             [2] = 3,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.72549, 0.72549, 0.72549,
         ["Quips"] = {
             [1] = "I caught a Sardine!",
@@ -13806,7 +13806,7 @@ return {
         },
         ["Icon"] = "rbxassetid://119963825311230",
         ["Hint"] = "It races where the waves bubble.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -13840,7 +13840,7 @@ return {
         },
         ["Icon"] = "rbxassetid://124054246093053",
         ["Hint"] = "Located in the coldest parts of the trench, typically found in groups.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -13870,7 +13870,7 @@ return {
         },
         ["Icon"] = "rbxassetid://116150855141556",
         ["Hint"] = "It watches where the night grows cold.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -13904,7 +13904,7 @@ return {
         },
         ["Icon"] = "rbxassetid://121439252523126",
         ["Hint"] = "It appears when the sea mirrors the sky.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -13937,7 +13937,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.45,
         ["Hint"] = "Found in the deeper parts of the trench, especially within cool temperatures.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -13966,7 +13966,7 @@ return {
         },
         ["XP"] = 1200,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -14004,7 +14004,7 @@ return {
         },
         ["Icon"] = "rbxassetid://133302534353646",
         ["Hint"] = "It thrives when the leaves fall and the air grows thick with haze.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -14038,7 +14038,7 @@ return {
             [1] = 30,
             [2] = 70,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.741176, 0.854902, 1,
         ["Quips"] = {
             [1] = "A Chillfin Herring!",
@@ -14068,7 +14068,7 @@ return {
         },
         ["Icon"] = "rbxassetid://82390122887969",
         ["Hint"] = "ðŸ¶?",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -14100,7 +14100,7 @@ return {
         },
         ["XP"] = 40,
         ["Hint"] = "Fallen off of a fishing boat.",
-        ["HoldAnimation"] = crate,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.crate]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -14211,7 +14211,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.7,
         ["Hint"] = "In salt waters during the night. ",
-        ["HoldAnimation"] = underweight,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.underweight]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -14242,7 +14242,7 @@ return {
         },
         ["Icon"] = "rbxassetid://76126332564265",
         ["Hint"] = "It emerges where the depths bleed.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -14276,7 +14276,7 @@ return {
         },
         ["Icon"] = "rbxassetid://83632386474738",
         ["Hint"] = "It floats where the currents whisper.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -14309,7 +14309,7 @@ return {
         },
         ["XP"] = 20,
         ["Hint"] = "Found in the Desolate Deep",
-        ["HoldAnimation"] = crate,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.crate]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -14383,7 +14383,7 @@ return {
         },
         ["Icon"] = "rbxassetid://108956383264570",
         ["Hint"] = "It roams when the rains awaken the nightâ€™s embrace.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -14417,7 +14417,7 @@ return {
         },
         ["Icon"] = "rbxassetid://101330234849139",
         ["Hint"] = "It thrives where the sun barely pierces the mire.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -14451,7 +14451,7 @@ return {
         },
         ["Icon"] = "rbxassetid://139112436973391",
         ["Hint"] = "Look for it when the winds stir the surface.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -14485,7 +14485,7 @@ return {
         },
         ["Icon"] = "rbxassetid://106979038247843",
         ["Hint"] = "Found in the deepest of trenches, most notably when the stars are present.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -14514,7 +14514,7 @@ return {
         },
         ["Icon"] = "rbxassetid://132297023833361",
         ["Hint"] = "Can only be caught in the Cursed Pool.",
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -14548,7 +14548,7 @@ return {
             [1] = 1400,
             [2] = 2000,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.376471, 0.509804, 0.129412,
         ["Quips"] = {
             [1] = "Ouu a Xiphactinus!",
@@ -14577,7 +14577,7 @@ return {
         },
         ["Icon"] = "rbxassetid://137884046783267",
         ["Hint"] = "It glints where the mist cloaks the lagoon.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -14610,7 +14610,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.2,
         ["Hint"] = "Occasionally located in stormy weather conditions.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -14640,7 +14640,7 @@ return {
             [1] = 150,
             [2] = 700,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0, 0.333333, 0.498039,
         ["Quips"] = {
             [1] = "Yooo, is that a Sailfish?!",
@@ -14666,7 +14666,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.5,
         ["Hint"] = "Typically found alone, where wind is fierce.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -14694,7 +14694,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.95,
         ["Hint"] = "A swift fish that is typically difficult to spot due to foggy conditions.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -14723,7 +14723,7 @@ return {
             [1] = 80,
             [2] = 230,
         },
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["SparkleColor"] = 1, 0.4, 0.180392,
         ["Quips"] = {
             [1] = "A Molten Moray!",
@@ -14751,7 +14751,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.7,
         ["Hint"] = "Found in deep ocean caves during the Night.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
             [2] = "Summer",
@@ -14780,7 +14780,7 @@ return {
             [1] = 75,
             [2] = 190,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.4, 0.180392,
         ["Quips"] = {
             [1] = "A Pyrite Pufferfish!",
@@ -14808,7 +14808,7 @@ return {
             [1] = 80,
             [2] = 170,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 1, 0.4, 0.180392,
         ["Quips"] = {
             [1] = "A Smoldering Stingray!",
@@ -14836,7 +14836,7 @@ return {
             [1] = 25,
             [2] = 60,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.4, 0.180392,
         ["Quips"] = {
             [1] = "A Hellfire Haddock!",
@@ -14864,7 +14864,7 @@ return {
         },
         ["XP"] = 275,
         ["Hint"] = "Only can be caught during Ashfall.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -14895,7 +14895,7 @@ return {
         },
         ["Icon"] = "rbxassetid://123390569043670",
         ["Hint"] = "It struts where the wind ripples the surface.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -14931,7 +14931,7 @@ return {
         },
         ["Icon"] = "rbxassetid://114499683111142",
         ["Hint"] = "Its pretty",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -14959,7 +14959,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.25,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -14990,7 +14990,7 @@ return {
             [1] = 395,
             [2] = 1000,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.333333, 0.980392, 0.862745,
         ["Quips"] = {
             [1] = "A Ruby Rasbora!",
@@ -15017,7 +15017,7 @@ return {
             [1] = 5,
             [2] = 20,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "Ouu an Angelfish!",
@@ -15045,7 +15045,7 @@ return {
             [1] = 800,
             [2] = 1750,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.333333, 0.980392, 0.862745,
         ["Quips"] = {
             [1] = "A Diamond Discus!",
@@ -15075,7 +15075,7 @@ return {
             [1] = 70,
             [2] = 100,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.298039, 0.298039, 0.298039,
         ["Quips"] = {
             [1] = "Woah, a Coelacanth!",
@@ -15105,7 +15105,7 @@ return {
             [1] = 180,
             [2] = 400,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.333333, 0.980392, 0.862745,
         ["Quips"] = {
             [1] = "A Quartzfin Queenfish!",
@@ -15132,7 +15132,7 @@ return {
         },
         ["Icon"] = "rbxassetid://87185870245453",
         ["Hint"] = "Haunting the deepest parts of the trench, particularly under vast amounts of shade and deep fog.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -15162,7 +15162,7 @@ return {
         },
         ["Icon"] = "rbxassetid://124815300302724",
         ["Hint"] = "Its radiance pierces the chill of a restless frost.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -15195,7 +15195,7 @@ return {
         },
         ["XP"] = 70,
         ["Hint"] = "From meteors.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -15224,7 +15224,7 @@ return {
             [1] = 1,
             [2] = 1,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.494118, 0.486275, 0.482353,
         ["Quips"] = {
             [1] = "Woah a bone!",
@@ -15251,7 +15251,7 @@ return {
             [1] = 5,
             [2] = 17,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.498039, 1, 0.345098,
         ["Quips"] = {
             [1] = "A Smallmouth Bass!",
@@ -15281,7 +15281,7 @@ return {
         },
         ["Icon"] = "rbxassetid://108565835701703",
         ["Hint"] = "It strikes when the air feels charged.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -15315,7 +15315,7 @@ return {
             [1] = 350,
             [2] = 800,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.113725, 0.117647, 0.301961,
         ["Quips"] = {
             [1] = "A Leviathan Humpback Anglerfish!",
@@ -15343,7 +15343,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.05,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -15374,7 +15374,7 @@ return {
         },
         ["XP"] = 250,
         ["Hint"] = "???",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -15406,7 +15406,7 @@ return {
         },
         ["Icon"] = "rbxassetid://131036635264697",
         ["Hint"] = "It waits where the winds stir the bog's surface.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -15440,7 +15440,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.1,
         ["Hint"] = "Known for its rarity and immense size, only the keenest eyes will spot it.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -15475,7 +15475,7 @@ return {
         },
         ["XP"] = 8000,
         ["Hint"] = "Search the ocean for migrating orcas",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -15504,7 +15504,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.15,
         ["Hint"] = "When all other creatures flee, the master approaches, Kraken Pool.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -15536,7 +15536,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.3,
         ["Hint"] = "Look for patches where light cannot penetrate, Kraken Pool.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -15566,7 +15566,7 @@ return {
             [1] = 55,
             [2] = 100,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.529412, 0.807843, 0.921569,
         ["Quips"] = {
             [1] = "A Chronos Deep Swimmer!",
@@ -15596,7 +15596,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Its pretty",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -15624,7 +15624,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.35,
         ["Hint"] = "The ground trembles when it stirs, Kraken Pool.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -15655,7 +15655,7 @@ return {
             [1] = 4,
             [2] = 14,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.752941, 0.752941, 0.752941,
         ["Quips"] = {
             [1] = "A Sunken Silverscale!",
@@ -15684,7 +15684,7 @@ return {
             [1] = 400,
             [2] = 800,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.509804, 0.372549, 0.596078,
         ["Quips"] = {
             [1] = "AN ELDRITCH HORROR!",
@@ -15714,7 +15714,7 @@ return {
             [1] = 20,
             [2] = 50,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.258824, 0.109804, 0.321569,
         ["Quips"] = {
             [1] = "A SHADOWFANG SNAPPER!",
@@ -15743,7 +15743,7 @@ return {
         },
         ["XP"] = 460,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
             [2] = "Spring",
@@ -15781,7 +15781,7 @@ return {
         },
         ["XP"] = 240,
         ["Hint"] = "Caught in oceans using a net.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
             [2] = "Spring",
@@ -15815,7 +15815,7 @@ return {
             [1] = 3000,
             [2] = 5000,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.619608, 0, 1,
         ["Quips"] = {
             [1] = "THE KING JELLYFISH!",
@@ -15844,7 +15844,7 @@ return {
             [1] = 25,
             [2] = 55,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "A Chillback Whitefish!",
@@ -15873,7 +15873,7 @@ return {
             [1] = 150,
             [2] = 300,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.196078, 0.196078, 0.196078,
         ["Quips"] = {
             [1] = "A Voidscale Guppy!",
@@ -15902,7 +15902,7 @@ return {
             [1] = 4000,
             [2] = 6000,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.631373, 0.780392, 1,
         ["Quips"] = {
             [1] = "A Sawfish!",
@@ -15932,7 +15932,7 @@ return {
             [1] = 30,
             [2] = 65,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.576471, 0.768627, 1,
         ["Quips"] = {
             [1] = "An Echo Fisher!",
@@ -15959,7 +15959,7 @@ return {
             [1] = 1,
             [2] = 2,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.207843, 0.207843, 0.34902,
         ["Quips"] = {
             [1] = "A Mussel!",
@@ -15989,7 +15989,7 @@ return {
         },
         ["XP"] = 20,
         ["Hint"] = "Fallen off of a fishing boat.",
-        ["HoldAnimation"] = crate,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.crate]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -16054,7 +16054,7 @@ return {
             [1] = 4,
             [2] = 11,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.568627, 1, 0.976471,
         ["Quips"] = {
             [1] = "An Aqua Scribe!",
@@ -16082,7 +16082,7 @@ return {
             [1] = 5,
             [2] = 15,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.337255, 0.745098, 1,
         ["Quips"] = {
             [1] = "A Neptune's Nibbler!",
@@ -16109,7 +16109,7 @@ return {
             [1] = 3,
             [2] = 10,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0, 1, 0.74902,
         ["Quips"] = {
             [1] = "An Atlantean Sardine!",
@@ -16136,7 +16136,7 @@ return {
             [1] = 1,
             [2] = 3,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.333333, 1, 0.521569,
         ["Quips"] = {
             [1] = "Ouu a Brine Shrimp!",
@@ -16167,7 +16167,7 @@ return {
             [1] = 5,
             [2] = 12,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.741176, 0.741176, 0.741176,
         ["Quips"] = {
             [1] = "A Column Crawler!",
@@ -16194,7 +16194,7 @@ return {
             [1] = 5000,
             [2] = 10000,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0, 0.717647, 1,
         ["Quips"] = {
             [1] = "THE CELESTIAL KOI!",
@@ -16224,7 +16224,7 @@ return {
         },
         ["Icon"] = "rbxassetid://92446926296297",
         ["Hint"] = "It bobs where the winds warm the ancient glow.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -16258,7 +16258,7 @@ return {
             [1] = 10,
             [2] = 25,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.717647, 0.419608,
         ["Quips"] = {
             [1] = "Poseidon's Perch!",
@@ -16287,7 +16287,7 @@ return {
         },
         ["XP"] = 1600,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -16325,7 +16325,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.35,
         ["Hint"] = "The deepest parts of the pool grow still when it approaches, Poseidon Pool fish.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -16356,7 +16356,7 @@ return {
             [1] = 25,
             [2] = 50,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.788235, 1, 0.988235,
         ["Quips"] = {
             [1] = "A Crystal Chorus!",
@@ -16385,7 +16385,7 @@ return {
             [1] = 20,
             [2] = 40,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.839216, 0.839216, 0.839216,
         ["Quips"] = {
             [1] = "Woah, a Chinfish!",
@@ -16417,7 +16417,7 @@ return {
         },
         ["Icon"] = "rbxassetid://139749999063062",
         ["Hint"] = "It stings where the shadows grow sharp.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -16450,7 +16450,7 @@ return {
         },
         ["XP"] = 40,
         ["Hint"] = "Only can be caught during Fischmas24.",
-        ["HoldAnimation"] = crate,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.crate]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -16495,7 +16495,7 @@ return {
             [1] = 250,
             [2] = 500,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.619608, 0.745098, 1,
         ["Quips"] = {
             [1] = "A TITANIC STURGEON!",
@@ -16525,7 +16525,7 @@ return {
             [1] = 100,
             [2] = 250,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.584314, 0.945098, 1,
         ["Quips"] = {
             [1] = "An Icy Tuna!",
@@ -16553,7 +16553,7 @@ return {
         },
         ["Icon"] = "rbxassetid://126477157825621",
         ["Hint"] = "It dances where the fog cloaks the edge.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -16587,7 +16587,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.4,
         ["Hint"] = "Watch for unusual patterns in the water's surface, Kraken Pool.",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -16618,7 +16618,7 @@ return {
             [1] = 20,
             [2] = 45,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.537255, 0.937255, 1,
         ["Quips"] = {
             [1] = "An Ice Jellyfish!",
@@ -16647,7 +16647,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.25,
         ["Hint"] = "The deepest parts of Poseidon's Pool occasionally tremble with its presence, Poseidon Pool.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -16678,7 +16678,7 @@ return {
             [1] = 15,
             [2] = 35,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.619608, 0.992157, 1,
         ["Quips"] = {
             [1] = "A Marble Maiden!",
@@ -16707,7 +16707,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.4,
         ["Hint"] = "Lurks in the darkest depths of Poseidon's Pool.",
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -16739,7 +16739,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.2,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -16768,7 +16768,7 @@ return {
             [1] = 1000,
             [2] = 2000,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.337255, 0.556863, 1,
         ["Quips"] = {
             [1] = "THE THUNDER SERPENT!",
@@ -16797,7 +16797,7 @@ return {
         },
         ["XP"] = 8000,
         ["Hint"] = "Caught in oceans using a net.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
             [2] = "Spring",
@@ -16830,7 +16830,7 @@ return {
         },
         ["XP"] = 600,
         ["Hint"] = "From catching Clams.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -16857,7 +16857,7 @@ return {
         },
         ["Icon"] = "rbxassetid://135376186443805",
         ["Hint"] = "It sweeps through the snowy tides.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -16888,7 +16888,7 @@ return {
             [1] = 1,
             [2] = 1,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.494118, 0.486275, 0.482353,
         ["Quips"] = {
             [1] = "Woah a bone!",
@@ -16915,7 +16915,7 @@ return {
             [1] = 20,
             [2] = 50,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.52549, 0.705882, 1,
         ["Quips"] = {
             [1] = "A COLOSSAL CARP!",
@@ -16945,7 +16945,7 @@ return {
             [1] = 50,
             [2] = 120,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 1, 0.952941, 0.580392,
         ["Quips"] = {
             [1] = "A Sparkfin Tetra!",
@@ -16975,7 +16975,7 @@ return {
             [1] = 55,
             [2] = 110,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.458824, 0.552941, 0.47451,
         ["Quips"] = {
             [1] = "Woah, a Barracuda!",
@@ -17004,7 +17004,7 @@ return {
             [1] = 200,
             [2] = 450,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.984314, 0.639216,
         ["Quips"] = {
             [1] = "A Lightning Pike!",
@@ -17034,7 +17034,7 @@ return {
             [1] = 400,
             [2] = 800,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.85098, 0.454902,
         ["Quips"] = {
             [1] = "A Storm Eel!",
@@ -17064,7 +17064,7 @@ return {
         },
         ["Icon"] = "rbxassetid://123697771143998",
         ["Hint"] = "It dashes under the warm rainâ€™s embrace.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -17098,7 +17098,7 @@ return {
             [1] = 30,
             [2] = 70,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.619608, 0.745098, 1,
         ["Quips"] = {
             [1] = "A TITAN TUNA!",
@@ -17128,7 +17128,7 @@ return {
             [1] = 6,
             [2] = 16,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.4, 0.698039, 1,
         ["Quips"] = {
             [1] = "A Chillshadow Chub!",
@@ -17156,7 +17156,7 @@ return {
             [1] = 20,
             [2] = 45,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.4, 0.698039, 1,
         ["Quips"] = {
             [1] = "A Subzero Stargazer!",
@@ -17185,7 +17185,7 @@ return {
         },
         ["Icon"] = "rbxassetid://96530556200239",
         ["Hint"] = "Its pretty",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -17214,7 +17214,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.75,
         ["Hint"] = "Lurks in the largest chambers of the frozen cavern.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -17243,7 +17243,7 @@ return {
         },
         ["XP"] = 120,
         ["Hint"] = "Only can be caught during Fischmas24.",
-        ["HoldAnimation"] = crate,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.crate]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -17322,7 +17322,7 @@ return {
         },
         ["XP"] = 2000,
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -17353,7 +17353,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "Caught in Roslit Bays pond at night.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Spring",
             [2] = "Autumn",
@@ -17386,7 +17386,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Legends say the Pirates had only ONCE ever caught this... No One else ever got to lay their hands on this fish...",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -17414,7 +17414,7 @@ return {
         },
         ["XP"] = 1200,
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -17446,7 +17446,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "Only can be caught during Fischmas24.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -17481,7 +17481,7 @@ return {
             [1] = 2,
             [2] = 7,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.721569, 0.270588,
         ["Quips"] = {
             [1] = "Doesn't look very gold..",
@@ -17512,7 +17512,7 @@ return {
             [1] = 600,
             [2] = 1400,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.4, 0.2, 0,
         ["Quips"] = {
             [1] = "I caught a Phanerorhynchus!",
@@ -17540,7 +17540,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.95,
         ["Hint"] = "Only can be caught during Fischmas24.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -17570,7 +17570,7 @@ return {
         },
         ["XP"] = 130,
         ["Hint"] = "Only can be caught during Fischmas24.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
             [2] = "Winter",
@@ -17602,7 +17602,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "Dwells in deep coral reefs and rocky underwater caves, mostly visible during the Night.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
             [2] = "Summer",
@@ -17630,7 +17630,7 @@ return {
             [1] = 6,
             [2] = 14,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.72549, 0.219608, 0.203922,
         ["Quips"] = {
             [1] = "A Crusty Mushgrove Crab!",
@@ -17660,7 +17660,7 @@ return {
         },
         ["XP"] = 9,
         ["Hint"] = "Only can be caught during Fischmas24.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -17688,7 +17688,7 @@ return {
             [1] = 130,
             [2] = 160,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.901961, 0.745098,
         ["Quips"] = {
             [1] = "Ouu an Acanthodii!",
@@ -17718,7 +17718,7 @@ return {
             [1] = 40,
             [2] = 60,
         },
-        ["HoldAnimation"] = heavybasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavybasic]",
         ["SparkleColor"] = 0.596078, 0.580392, 1,
         ["Quips"] = {
             [1] = "A Phantom Ray!",
@@ -17747,7 +17747,7 @@ return {
         },
         ["XP"] = 9,
         ["Hint"] = "Only can be caught during Fischmas24.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -17776,7 +17776,7 @@ return {
             [1] = 100,
             [2] = 250,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.929412, 0.537255,
         ["Quips"] = {
             [1] = "A Frozen Taco!",
@@ -17806,7 +17806,7 @@ return {
             [1] = 11,
             [2] = 27,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 1, 0.756863,
         ["Quips"] = {
             [1] = "A Bream!",
@@ -17837,7 +17837,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "Caught at night in Keepers Altar.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -17867,7 +17867,7 @@ return {
             [1] = 80,
             [2] = 250,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0, 0.333333, 0.498039,
         ["Quips"] = {
             [1] = "Yooo, is that THE Cutlass Fish?!",
@@ -17893,7 +17893,7 @@ return {
             [1] = 2,
             [2] = 8,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.87451, 0.501961,
         ["Quips"] = {
             [1] = "An Atlantean Anchovy!",
@@ -17938,7 +17938,7 @@ return {
             [1] = 10,
             [2] = 30,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.631373, 1, 0.968627,
         ["Quips"] = {
             [1] = "So colorful!",
@@ -17966,7 +17966,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.2,
         ["Hint"] = "Only obtainable during FischFright",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -17998,7 +17998,7 @@ return {
         },
         ["Icon"] = "rbxassetid://100296568467790",
         ["Hint"] = "Its wings flare in the foggy nightâ€™s glow.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -18031,7 +18031,7 @@ return {
         },
         ["XP"] = 20,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -18063,7 +18063,7 @@ return {
             [1] = 8,
             [2] = 45,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.913725, 0.886275,
         ["Quips"] = {
             [1] = "Is it a snake?",
@@ -18095,7 +18095,7 @@ return {
             [1] = 200,
             [2] = 400,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.529412, 0.937255, 1,
         ["Quips"] = {
             [1] = "An Icy Goldfish!",
@@ -18123,7 +18123,7 @@ return {
             [1] = 75,
             [2] = 155,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.32549, 0.262745, 0.415686,
         ["Quips"] = {
             [1] = "I caught a Voidfin Mahi!",
@@ -18153,7 +18153,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.7,
         ["Hint"] = "Found in the Brine Pool.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -18184,7 +18184,7 @@ return {
         },
         ["Icon"] = "rbxassetid://114020294523055",
         ["Hint"] = "Can only be caught in the Cursed Pool.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -18218,7 +18218,7 @@ return {
             [1] = 10,
             [2] = 30,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "I caught a Chub!",
@@ -18245,7 +18245,7 @@ return {
             [1] = 100,
             [2] = 200,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.501961, 1, 0.47451,
         ["Quips"] = {
             [1] = "Woah, a Twilight Eel!",
@@ -18273,7 +18273,7 @@ return {
         },
         ["XP"] = 50,
         ["Hint"] = "Fallen off of a commercial fishing boat.",
-        ["HoldAnimation"] = crate,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.crate]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -18336,7 +18336,7 @@ return {
             [1] = 5,
             [2] = 20,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.631373, 1, 0.968627,
         ["Quips"] = {
             [1] = "Could've been on Roslit.. but hey!",
@@ -18363,7 +18363,7 @@ return {
         },
         ["XP"] = 30000,
         ["Hint"] = "Caught in oceans using a net.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
             [2] = "Spring",
@@ -18398,7 +18398,7 @@ return {
             [1] = 1,
             [2] = 2,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.192157, 0.2, 0.290196,
         ["Quips"] = {
             [1] = "A Night Shrimp!",
@@ -18428,7 +18428,7 @@ return {
         },
         ["XP"] = 80,
         ["Hint"] = "???",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -18460,7 +18460,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "We haven't checked the Mushgroves yet... Could this be discovered there?",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -18488,7 +18488,7 @@ return {
         },
         ["Icon"] = "rbxassetid://80553083768726",
         ["Hint"] = "It darts through the mist where the waves whisper.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -18522,7 +18522,7 @@ return {
         },
         ["Icon"] = "rbxassetid://115276761742692",
         ["Hint"] = "Found in the vibrant carrot pool!",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -18556,7 +18556,7 @@ return {
         },
         ["Icon"] = "rbxassetid://75710782306179",
         ["Hint"] = "It prowls when the night cloaks the fading leaves.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -18589,7 +18589,7 @@ return {
         },
         ["Icon"] = "rbxassetid://105045431285579",
         ["Hint"] = "Can only be caught in the Cursed Pool.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -18622,7 +18622,7 @@ return {
             [1] = 2,
             [2] = 6,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.592157, 0.890196, 1,
         ["Quips"] = {
             [1] = "An Ice Anchovy!",
@@ -18652,7 +18652,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.95,
         ["Hint"] = "Resides on the floor of caves and dark rocky areas. Loves the night.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -18688,7 +18688,7 @@ return {
             [1] = 3,
             [2] = 15,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.188235, 0.270588, 1,
         ["Quips"] = {
             [1] = "Ouu a Blue Tang!",
@@ -18720,7 +18720,7 @@ return {
             [1] = 4,
             [2] = 10,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.85098, 0.843137, 0.592157,
         ["Quips"] = {
             [1] = "An Oyster!",
@@ -18751,7 +18751,7 @@ return {
         },
         ["XP"] = 22,
         ["Hint"] = "This was last discovered near Moosewood...",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -18778,7 +18778,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Found rarely near Sunstone Island during the day.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -18808,7 +18808,7 @@ return {
         },
         ["XP"] = 500,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -18840,7 +18840,7 @@ return {
             [1] = 1,
             [2] = 5,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.647059, 1, 0.972549,
         ["Quips"] = {
             [1] = "A Prawn!",
@@ -18871,7 +18871,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.4,
         ["Hint"] = "Found swimming near Sunstone Island during the Night.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -18901,7 +18901,7 @@ return {
             [1] = 100,
             [2] = 400,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "Ou! A Chinook Salmon!",
@@ -18931,7 +18931,7 @@ return {
         },
         ["XP"] = 35,
         ["Hint"] = "Dr. Finneus had mentioned discovering this earlier around Roslit...",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -18959,7 +18959,7 @@ return {
             [1] = 500,
             [2] = 1200,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.784314, 0.784314, 0.784314,
         ["Quips"] = {
             [1] = "I caught a Birgeria!",
@@ -18988,7 +18988,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Can be found in the waters of the Ancient Isle.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -19020,7 +19020,7 @@ return {
             [1] = 100,
             [2] = 300,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 0.0980392, 0.443137,
         ["Quips"] = {
             [1] = "Yooo, that's a Shipwreck Barracuda!",
@@ -19047,7 +19047,7 @@ return {
             [1] = 2,
             [2] = 7,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.729412, 1, 0.788235,
         ["Quips"] = {
             [1] = "An Oracle Minnow!",
@@ -19075,7 +19075,7 @@ return {
             [1] = 4,
             [2] = 12,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.494118, 0.403922, 1,
         ["Quips"] = {
             [1] = "A Rockstar Hermit Crab!",
@@ -19105,7 +19105,7 @@ return {
             [1] = 20,
             [2] = 100,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.811765, 0.619608, 0.545098,
         ["Quips"] = {
             [1] = "A Cod!",
@@ -19135,7 +19135,7 @@ return {
             [1] = 2,
             [2] = 5,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.615686, 1, 0.376471,
         ["Quips"] = {
             [1] = "A Sweetfish!",
@@ -19165,7 +19165,7 @@ return {
             [1] = 200,
             [2] = 450,
         },
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["SparkleColor"] = 0.690196, 0.827451, 1,
         ["Quips"] = {
             [1] = "An Icefang Barracuda!",
@@ -19196,7 +19196,7 @@ return {
         },
         ["XP"] = 20,
         ["Hint"] = "Mushgrove Algae thrives in the damp, shadowy waters of Mushgrove Swamps, a place where life persists even in the darkest corners...",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -19225,7 +19225,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.5,
         ["Hint"] = "Found in the open ocean of Snowcap Island during the night.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -19255,7 +19255,7 @@ return {
             [1] = 2,
             [2] = 9,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.133333, 0.12549, 0.164706,
         ["Quips"] = {
             [1] = "A Sea Urchin!",
@@ -19283,7 +19283,7 @@ return {
         },
         ["XP"] = 80,
         ["Hint"] = "???",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -19315,7 +19315,7 @@ return {
             [1] = 12,
             [2] = 35,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.364706, 0.54902, 0.427451,
         ["Quips"] = {
             [1] = "A Glacier Pike!",
@@ -19348,7 +19348,7 @@ return {
             [1] = 180,
             [2] = 240,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 1, 0.537255, 0.270588,
         ["Quips"] = {
             [1] = "A Cladoselache!",
@@ -19377,7 +19377,7 @@ return {
         },
         ["Icon"] = "rbxassetid://115184880043041",
         ["Hint"] = "It floats where the winds stir the depths.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -19412,7 +19412,7 @@ return {
             [1] = 25,
             [2] = 700,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.129412, 0.415686, 0.478431,
         ["Quips"] = {
             [1] = "A Palaeoniscum!",
@@ -19441,7 +19441,7 @@ return {
             [1] = 2,
             [2] = 8,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 0.160784, 0.588235, 0.67451,
         ["Quips"] = {
             [1] = "What is that glowing fish...",
@@ -19468,7 +19468,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Found in the darkest depths of the canal.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -19498,7 +19498,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -19530,7 +19530,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.5,
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -19562,7 +19562,7 @@ return {
         },
         ["Icon"] = "rbxassetid://80728513266395",
         ["Hint"] = "Found in the vibrant carrot pool!",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -19595,7 +19595,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Found in volcanic regions.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -19626,7 +19626,7 @@ return {
             [1] = 400,
             [2] = 800,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0, 0, 0,
         ["Quips"] = {
             [1] = "A Cyclone Mako!",
@@ -19656,7 +19656,7 @@ return {
             [1] = 15,
             [2] = 40,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.890196, 0.890196, 0.890196,
         ["Quips"] = {
             [1] = "I caught a Haddock!",
@@ -19683,7 +19683,7 @@ return {
         },
         ["Icon"] = "rbxassetid://90218266378032",
         ["Hint"] = "It baas where the wind howls over the waves.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -19716,7 +19716,7 @@ return {
         },
         ["XP"] = 0,
         ["Hint"] = "From catching Clams.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -19744,7 +19744,7 @@ return {
             [1] = 20,
             [2] = 45,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.611765, 0.772549, 1,
         ["Quips"] = {
             [1] = "An Iced Perch!",
@@ -19772,7 +19772,7 @@ return {
         },
         ["XP"] = 6000,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -19810,7 +19810,7 @@ return {
             [1] = 300,
             [2] = 600,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.470588, 0.686275, 1,
         ["Quips"] = {
             [1] = "A TITANFANG GROUPER!",
@@ -19840,7 +19840,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.65,
         ["Hint"] = "Can be found in the waters of the Ancient Isle.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -19869,7 +19869,7 @@ return {
             [1] = 60,
             [2] = 120,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.74902, 0.152941, 0.0980392,
         ["Quips"] = {
             [1] = "An Ember Snapper!",
@@ -19900,7 +19900,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "Found gliding through Roslit Bays coral reef during the night.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -19935,7 +19935,7 @@ return {
         },
         ["XP"] = 15000,
         ["Hint"] = "Venture into the fog where this elusive creature lurks, quick as the mist itself.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -19968,7 +19968,7 @@ return {
             [1] = 3,
             [2] = 25,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "A White Bass!",
@@ -19997,7 +19997,7 @@ return {
             [1] = 200,
             [2] = 450,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "I caught a Gar!",
@@ -20030,7 +20030,7 @@ return {
         },
         ["Icon"] = "rbxassetid://140635213153226",
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -20060,7 +20060,7 @@ return {
         },
         ["XP"] = 80,
         ["Hint"] = "???",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -20091,7 +20091,7 @@ return {
             [1] = 1000,
             [2] = 2000,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.603922, 0.152941, 0.152941,
         ["Quips"] = {
             [1] = "An Arapaima!",
@@ -20120,7 +20120,7 @@ return {
         },
         ["XP"] = 0,
         ["Hint"] = "From catching Clams.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -20148,7 +20148,7 @@ return {
             [1] = 5,
             [2] = 20,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.870588, 0.223529,
         ["Quips"] = {
             [1] = "Ouu a Yellow Boxfish!",
@@ -20175,7 +20175,7 @@ return {
         },
         ["XP"] = 200,
         ["Hint"] = "Catchable during LEGO event.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -20206,7 +20206,7 @@ return {
         },
         ["XP"] = 0,
         ["Hint"] = "From catching Clams.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -20233,7 +20233,7 @@ return {
         },
         ["XP"] = 35,
         ["Hint"] = "From meteors.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -20261,7 +20261,7 @@ return {
         },
         ["XP"] = 40,
         ["Hint"] = "Fallen off of a fishing boat.",
-        ["HoldAnimation"] = crate,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.crate]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -20316,7 +20316,7 @@ return {
             [1] = 1,
             [2] = 6,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.654902, 0.168627,
         ["Quips"] = {
             [1] = "Ouu a Clownfish!",
@@ -20348,7 +20348,7 @@ return {
         },
         ["XP"] = 8000,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
             [2] = "Spring",
@@ -20386,7 +20386,7 @@ return {
         },
         ["Icon"] = "rbxassetid://99446334465175",
         ["Hint"] = "Its melody hums under the bright bloom of dawn.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -20419,7 +20419,7 @@ return {
             [1] = 170,
             [2] = 380,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.12549, 0.101961, 0.188235,
         ["Quips"] = {
             [1] = "A Gar!",
@@ -20448,7 +20448,7 @@ return {
         },
         ["Icon"] = "rbxassetid://83156169492063",
         ["Hint"] = "It scurries where the winds whip the surface.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -20480,7 +20480,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.3,
         ["Hint"] = "Only rarely spotted in the oceans during a Shark Hunt near the Desolate Deep.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -20513,7 +20513,7 @@ return {
             [1] = 150,
             [2] = 300,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.576471, 0, 0.827451,
         ["Quips"] = {
             [1] = "A Twilight Glowfish!",
@@ -20542,7 +20542,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "In salt waters during the night. ",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -20573,7 +20573,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.6,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -20606,7 +20606,7 @@ return {
             [1] = 900,
             [2] = 1300,
         },
-        ["HoldAnimation"] = heavybasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavybasic]",
         ["SparkleColor"] = 1, 0.960784, 0.772549,
         ["Quips"] = {
             [1] = "A Bull Shark!",
@@ -20637,7 +20637,7 @@ return {
             [1] = 5,
             [2] = 15,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.403922, 0.403922,
         ["Quips"] = {
             [1] = "A Cookiecutter Shark!",
@@ -20669,7 +20669,7 @@ return {
         },
         ["XP"] = 300,
         ["Hint"] = "Found in ocean water. Extremely strong.",
-        ["HoldAnimation"] = heavybasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavybasic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -20700,7 +20700,7 @@ return {
             [1] = 100,
             [2] = 400,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.8, 0.25098, 0.313726,
         ["Quips"] = {
             [1] = "Ouu an Anomalocaris!",
@@ -20730,7 +20730,7 @@ return {
             [1] = 12,
             [2] = 35,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.364706, 0.54902, 0.427451,
         ["Quips"] = {
             [1] = "A Pike!",
@@ -20762,7 +20762,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.6,
         ["Hint"] = "Found in Snowcap Pond.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -20792,7 +20792,7 @@ return {
             [1] = 5,
             [2] = 20,
         },
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["SparkleColor"] = 1, 0.890196, 0.0588235,
         ["Quips"] = {
             [1] = "Woah! a Blowfish!",
@@ -20822,7 +20822,7 @@ return {
         },
         ["XP"] = 62,
         ["Hint"] = "Caught in oceans using a net.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -20855,7 +20855,7 @@ return {
             [1] = 2000,
             [2] = 3250,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.403922, 0.403922, 1,
         ["Quips"] = {
             [1] = "A Sea Mine?!",
@@ -20885,7 +20885,7 @@ return {
         },
         ["XP"] = 1800,
         ["Hint"] = "Caught in oceans using a net.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
             [2] = "Autumn",
@@ -20919,7 +20919,7 @@ return {
         },
         ["XP"] = 1500,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Winter",
             [2] = "Spring",
@@ -20956,7 +20956,7 @@ return {
         },
         ["ProgressEfficiency"] = 1.2,
         ["Hint"] = "Resides in oceans, some freshwaters along Moosewood. Prefers shrimp.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
             [2] = "Winter",
@@ -20989,7 +20989,7 @@ return {
             [1] = 150,
             [2] = 210,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.231373, 0.231373, 0.231373,
         ["Quips"] = {
             [1] = "Ermm..?",
@@ -21020,7 +21020,7 @@ return {
         },
         ["XP"] = 0,
         ["Hint"] = "From catching Clams.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -21048,7 +21048,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.25,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -21079,7 +21079,7 @@ return {
         },
         ["XP"] = 8000,
         ["Hint"] = "Caught in oceans using a lobster cage.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
             [2] = "Spring",
@@ -21118,7 +21118,7 @@ return {
             [1] = 95,
             [2] = 170,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.619608, 0.501961, 1,
         ["Quips"] = {
             [1] = "A Suckermouth Catfish!",
@@ -21147,7 +21147,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "This appears to be something a fish from the coldest regions would rely on for survival...",
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -21176,7 +21176,7 @@ return {
             [1] = 200,
             [2] = 400,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.858824, 0.858824, 1,
         ["Quips"] = {
             [1] = "An Amberjack!",
@@ -21206,7 +21206,7 @@ return {
         },
         ["Icon"] = "rbxassetid://82043991450361",
         ["Hint"] = "Can only be caught in the Cursed Pool.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -21238,7 +21238,7 @@ return {
             [1] = 1,
             [2] = 4,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.494118, 0.494118, 0.494118,
         ["Quips"] = {
             [1] = "Ouu a Glassfish!",
@@ -21266,7 +21266,7 @@ return {
         },
         ["Icon"] = "rbxassetid://82672626514771",
         ["Hint"] = "It waits where the winds howl over frozen waves.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -21298,7 +21298,7 @@ return {
             [1] = 1,
             [2] = 2,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.419608, 0.376471,
         ["Quips"] = {
             [1] = "A Shrimp!",
@@ -21329,7 +21329,7 @@ return {
             [1] = 20,
             [2] = 60,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.796078, 0.796078, 0.796078,
         ["Quips"] = {
             [1] = "A Sea Bass!",
@@ -21359,7 +21359,7 @@ return {
         },
         ["Icon"] = "rbxassetid://103784722418647",
         ["Hint"] = "It drifts where the fog shrouds the waves.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -21394,7 +21394,7 @@ return {
             [1] = 30,
             [2] = 60,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.741176, 0.490196, 0.372549,
         ["Quips"] = {
             [1] = "A Mudfish!",
@@ -21423,7 +21423,7 @@ return {
             [1] = 2,
             [2] = 12,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "A White Perch!",
@@ -21452,7 +21452,7 @@ return {
         },
         ["XP"] = 80,
         ["Hint"] = "???",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -21485,7 +21485,7 @@ return {
             [1] = 10,
             [2] = 30,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.686275, 0.458824,
         ["Quips"] = {
             [1] = "A CATFISH!",
@@ -21516,7 +21516,7 @@ return {
             [1] = 15,
             [2] = 55,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.337255, 0.266667, 0.223529,
         ["Quips"] = {
             [1] = "A Flounder!",
@@ -21545,7 +21545,7 @@ return {
             [1] = 1,
             [2] = 3,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "I caught an Anchovy..",
@@ -21574,7 +21574,7 @@ return {
         },
         ["Icon"] = "rbxassetid://108282314447639",
         ["Hint"] = "It gleams under the sunâ€™s gentle rays.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -21608,7 +21608,7 @@ return {
             [1] = 3,
             [2] = 15,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.733333, 0.733333,
         ["Quips"] = {
             [1] = "Ouu a Pale Tang!",
@@ -21639,7 +21639,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.4,
         ["Hint"] = "Can be found within the Desolate Deep",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -21673,7 +21673,7 @@ return {
             [1] = 150,
             [2] = 200,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.776471, 0.615686, 1,
         ["Quips"] = {
             [1] = "I caught a Bandit Fish!",
@@ -21703,7 +21703,7 @@ return {
         },
         ["Icon"] = "rbxassetid://84376073594091",
         ["Hint"] = "It sweeps through the rainy embers of night.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -21738,7 +21738,7 @@ return {
             [1] = 80,
             [2] = 140,
         },
-        ["HoldAnimation"] = underweight,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.underweight]",
         ["SparkleColor"] = 1, 0.619608, 0.286275,
         ["Quips"] = {
             [1] = "Ouu a Gazerfish!",
@@ -21767,7 +21767,7 @@ return {
         },
         ["Icon"] = "rbxassetid://81571343142363",
         ["Hint"] = "It darts beneath the frozen winds.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -21797,7 +21797,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "???",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -21828,7 +21828,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "Can be found in the waters of the Ancient Isle.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -21860,7 +21860,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "Dr. Crookspine might know what to do with this.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -21887,7 +21887,7 @@ return {
             [1] = 1,
             [2] = 2,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.505882, 0.0980392,
         ["Quips"] = {
             [1] = "Woah, Inferno Wood!",
@@ -21913,7 +21913,7 @@ return {
         },
         ["XP"] = 55,
         ["Hint"] = "Only can be caught during Fischmas24.",
-        ["HoldAnimation"] = crate,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.crate]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -21979,7 +21979,7 @@ return {
             [1] = 50,
             [2] = 200,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.490196, 0.494118, 0.482353,
         ["Quips"] = {
             [1] = "I caught a Corsair Grouper!",
@@ -22007,7 +22007,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.4,
         ["Hint"] = "Dwells in the deepest trenches, guarding forgotten underwater ruins. Appears only during the darkest of nights...",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -22035,7 +22035,7 @@ return {
         },
         ["XP"] = 85,
         ["Hint"] = "Only can be caught during Fischmas24.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -22070,7 +22070,7 @@ return {
             [1] = 150,
             [2] = 400,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0.494118, 0.231373, 0.231373,
         ["Quips"] = {
             [1] = "THE Black Dragon Fish?!",
@@ -22097,7 +22097,7 @@ return {
             [1] = 5,
             [2] = 35,
         },
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["SparkleColor"] = 0.388235, 0.380392, 0.494118,
         ["Quips"] = {
             [1] = "Ooh, a Deep Sea Hatchetfish!",
@@ -22124,7 +22124,7 @@ return {
         },
         ["XP"] = 22,
         ["Hint"] = "Legends say the fish these belong to once swam predominantly in ponds.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -22160,7 +22160,7 @@ return {
         },
         ["XP"] = 8000,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -22192,7 +22192,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.7,
         ["Hint"] = "commonly caught in Forsaken Shores.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -22219,7 +22219,7 @@ return {
         },
         ["Icon"] = "rbxassetid://110543339307346",
         ["Hint"] = "It drifts where the sun warms the stillness.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Summer",
         },
@@ -22253,7 +22253,7 @@ return {
             [1] = 25,
             [2] = 50,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.129412, 0.215686, 1,
         ["Quips"] = {
             [1] = "Found a Meg Spine!",
@@ -22280,7 +22280,7 @@ return {
         },
         ["XP"] = 180,
         ["Hint"] = "Only can be caught during Fischmas24.",
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -22310,7 +22310,7 @@ return {
             [1] = 10,
             [2] = 25,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 0.192157, 0.192157,
         ["Quips"] = {
             [1] = "A Red Drum!",
@@ -22341,7 +22341,7 @@ return {
             [1] = 10,
             [2] = 25,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 1, 1, 1,
         ["Quips"] = {
             [1] = "A Snowgill Dace!",
@@ -22370,7 +22370,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.8,
         ["Hint"] = "???",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -22398,7 +22398,7 @@ return {
             [1] = 12,
             [2] = 28,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.858824, 0.917647, 1,
         ["Quips"] = {
             [1] = "A Frostling Goby!",
@@ -22427,7 +22427,7 @@ return {
             [1] = 3,
             [2] = 8,
         },
-        ["HoldAnimation"] = tiny,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.tiny]",
         ["SparkleColor"] = 0.592157, 0.945098, 1,
         ["Quips"] = {
             [1] = "A Frigid Shrimp!",
@@ -22457,7 +22457,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.85,
         ["Hint"] = "Found in Snowcap Caves during the night. Big fan of the Truffle Worm.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -22487,7 +22487,7 @@ return {
             [1] = 70,
             [2] = 210,
         },
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["SparkleColor"] = 0.4, 0.698039, 1,
         ["Quips"] = {
             [1] = "A Cryo Coelacanth!",
@@ -22515,7 +22515,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.7,
         ["Hint"] = "Active in the Glacial Grotto during the northern lights.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Winter",
         },
@@ -22545,7 +22545,7 @@ return {
             [1] = 40,
             [2] = 90,
         },
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["SparkleColor"] = 0, 0, 0,
         ["Quips"] = {
             [1] = "A Whirlpool Marlin!",
@@ -22574,7 +22574,7 @@ return {
         },
         ["XP"] = 40,
         ["Hint"] = "If the Spine Bone was found around Roslit... Could this be from the same zone?",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -22601,7 +22601,7 @@ return {
         },
         ["XP"] = 20,
         ["Hint"] = "Chipped off a volcanic geode.",
-        ["HoldAnimation"] = crate,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.crate]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -22675,7 +22675,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.9,
         ["Hint"] = "Where does this key open up?...",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -22703,7 +22703,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.3,
         ["Hint"] = "???",
-        ["HoldAnimation"] = small,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.small]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -22735,7 +22735,7 @@ return {
         },
         ["ProgressEfficiency"] = 0.1,
         ["Hint"] = "Only can be caught during Ashfall.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -22770,7 +22770,7 @@ return {
         },
         ["XP"] = 450,
         ["Hint"] = "???",
-        ["HoldAnimation"] = bigbasic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.bigbasic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -22798,7 +22798,7 @@ return {
         },
         ["XP"] = 80,
         ["Hint"] = "???",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
@@ -22829,7 +22829,7 @@ return {
         },
         ["Icon"] = "rbxassetid://119725034311950",
         ["Hint"] = "Appears randomly in Lucky Event pools, lured by a rainbow glow.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Spring",
         },
@@ -22859,7 +22859,7 @@ return {
         },
         ["Icon"] = "rbxassetid://86079154768543",
         ["Hint"] = "It snaps where the fog cloaks the swampy tides.",
-        ["HoldAnimation"] = heavy,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.heavy]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -22892,7 +22892,7 @@ return {
         },
         ["Icon"] = "rbxassetid://102101720419012",
         ["Hint"] = "It snorts and snuffles where cool rains turn the waters murky.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "Autumn",
         },
@@ -22922,7 +22922,7 @@ return {
         },
         ["Icon"] = "rbxassetid://112659110841268",
         ["Hint"] = "Can only be caught in the Cursed Pool.",
-        ["HoldAnimation"] = basic,
+        ["HoldAnimation"] = "[Instance: ReplicatedStorage.resources.animations.fish.basic]",
         ["Seasons"] = {
             [1] = "None",
         },
