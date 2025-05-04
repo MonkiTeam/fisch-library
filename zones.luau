@@ -678,7 +678,7 @@ return {
                 [1] = "Brick Built Rod",
                 [2] = "Developers Rod",
             },
-            [2] = "<font color="rgb(255,0,0)">You must use the Brick Built Rod in this pool!</font>",
+            [2] = "<font color=\"rgb(255,0,0)\">You must use the Brick Built Rod in this pool!</font>",
         },
         ["Priority"] = 5,
         ["Pool"] = {
@@ -1140,7 +1140,7 @@ return {
                 [1] = "Brick Built Rod",
                 [2] = "Developers Rod",
             },
-            [2] = "<font color="rgb(255,0,0)">You must use the Brick Built Rod in this pool!</font>",
+            [2] = "<font color=\"rgb(255,0,0)\">You must use the Brick Built Rod in this pool!</font>",
         },
         ["Priority"] = 5,
         ["Pool"] = {
